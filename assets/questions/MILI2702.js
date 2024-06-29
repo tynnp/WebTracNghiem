@@ -2040,4 +2040,556 @@ const questions = [
         ],
         correctAnswer: 3
     },
+
+    // Bài 4: Phòng, chống vi phạm pháp luật về đảm bảo trật tự, an toàn giao thông
+
+    {
+        question: "Pháp luật về bảo đảm trật tự, an toàn giao thông nhằm:",
+        options: [
+            "Điều chỉnh các quan hệ xã hội trong quá trình tổ chức thực hiện hoạt động chấp hành và điều hành của Nhà nước, tổ chức, công dân.", 
+            "Điều chỉnh các quan hệ xã hội phát sinh trong quá trình tổ chức thực hiện hoạt động chấp hành và điều hành của Nhà nước, tổ chức, công dân.", 
+            "Điều chỉnh hành vi xã hội trong quá trình tổ chức thực hiện hoạt động chấp hành và điều hành của Nhà nước, tổ chức, công dân.", 
+            "Điều chỉnh hành vi, ứng xử trong quá trình tổ chức thực hiện hoạt động chấp hành và điều hành của Nhà nước, tổ chức, công dân."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Pháp luật về đảm bảo trật tự, an toàn giao thông là",
+        options: [
+            "Công cụ thực thi để thực hiện chức năng quản lý Nhà nước.", 
+            "Công cụ xử lý để thực hiện chức năng quản lý Nhà nước.", 
+            "Công cụ pháp lý để thực hiện chức năng quản lý Nhà nước.", 
+            "Công cụ đấu tranh để thực hiện chức năng quản lý Nhà nước."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Các dạng vi phạm pháp luật về bảo đảm trật tự an toàn giao thông bao gồm:",
+        options: [
+            "Vi phạm hành chính; Vi phạm dân sự.", 
+            "Vi phạm hành chính; vi phạm hình sự.", 
+            "Vi phạm dân sự và vi phạm hình sự.", 
+            "Vi phạm dân sự."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Vi phạm hình sự xảy ra trong lĩnh vực bảo đảm trật tự an toàn giao thông được quy định trong bộ luật nào?",
+        options: [
+            "Bộ luật tố tụng dân sự.", 
+            "Bộ luật dân sự.", 
+            "Bộ luật tố tụng hình sự.", 
+            "Bộ luật hình sự."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Độ tuổi quy định chủ thể không phải chịu trách nhiệm hình sự về lỗi vô ý khi vi phạm pháp luật bảo đảm trật tự an toàn giao thông:",
+        options: [
+            "Từ 12 đến 16 tuổi.", 
+            "Từ 14 đến 18 tuổi.", 
+            "Từ đủ 14 tuổi đến dưới 16 tuổi.", 
+            "Từ 14 tuổi đến đủ 16 tuổi."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Chủ thể tham gia giao thông đường bộ là:",
+        options: [
+            "Người đủ 16 tuổi trở lên có khả năng nhận thức và khả năng điều khiển hành vi.", 
+            "Người đủ 16 tuổi trở lên.", 
+            "Người có năng lực trách nhiệm hình sự.", 
+            "Người có nhận thức và làm chủ hành vi."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Mặt khách quan của tội phạm xâm phạm an toàn giao thông là:",
+        options: [
+            "Phương tiện không đảm bảo chỉ số kỹ thuật.", 
+            "Phương tiện đi quá tốc độ, chở quá người quy định, vượt trái phép, không đúng làn đường.", 
+            "Phương tiện lưu thông từ mua bán trái phép.", 
+            "Phương tiện quá khổ, quá tải."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Mặt chủ quan của tội vi phạm tham gia giao thông đường bộ (Điều 11- Bộ luật Hình sự hiện hành)?",
+        options: [
+            "Thấy trước hành vi có thể gây hậu quả nhưng vẫn cố ý để hậu quả đó xảy ra.", 
+            "Không thấy trước hành vi phạm tội của mình.", 
+            "Thấy trước hành vi có thể gây hậu quả nhưng cho rằng hậu quả đó sẽ không xảy ra hoặc có thể ngăn ngừa được.", 
+            "Thấy trước hành vi phạm tội của mình có thể gây hậu quả nghiêm trọng cho xã hội."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những nguyên nhân, điều kiện dẫn đến vi phạm pháp luật về trật tự, an toàn giao thông:",
+        options: [
+            "Hệ thống pháp luật còn chưa đủ chặt, đủ mạnh để răn đe.", 
+            "Hiện tượng tiêu cực mang tính phổ biến.", 
+            "Ý thức tự giác của người tham gia giao thông chưa cao.", 
+            "Tác động tiêu cực của các yếu tố thiên nhiên, môi trường đối với người tham gia giao thông."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "An toàn giao thông là tổng hợp:",
+        options: [
+            "Cách thức, biện pháp được sử dụng để ngăn chặn người tham gia giao thông tử vong hoặc bị thương nặng do tai nạn giao thông.", 
+            "Biện pháp được sử dụng để ngăn chặn người tham gia giao thông tử vong hoặc bị thương nặng do tai nạn giao thông.", 
+            "Quy định được sử dụng để ngăn chặn người tham gia giao thông tử vong hoặc bị thương nặng do tai nạn giao thông.", 
+            "Nguyên tắc được sử dụng để ngăn chặn người tham gia giao thông tử vong hoặc bị thương nặng do tai nạn giao thông."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Trật tự, an toàn giao thông là trạng thái xã hội có trật tự được hình thành và điều chỉnh bởi:",
+        options: [
+            "Hệ thống văn bản pháp quy trong lĩnh vực giao thông.", 
+            "Các quy phạm pháp luật trong lĩnh vực giao thông.", 
+            "Hệ thống nguyên tắc điều chỉnh hành vi trong lĩnh vực giao thông.", 
+            "Ý thức công dân tham gia trong lĩnh vực giao thông."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phòng chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+        options: [
+            "Hoạt động của các tổ chức.", 
+            "Hoạt động của cơ quan Nhà nước.", 
+            "Hoạt động của cơ quan Nhà nước, các tổ chức xã hội và công dân.", 
+            "Hoạt động của cá nhân."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Cơ quan hay tổ chức nào trực tiếp chỉ đạo và phân công, phân cấp cụ thể cho các bộ, ngành, cơ quan đoàn thể trong phòng ngừa tội phạm và vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông:",
+        options: [
+            "Đảng cộng sản Việt Nam.", 
+            "Chính phủ, Uỷ ban nhân dân các cấp.", 
+            "Quốc hội, Hội đồng nhân dân các cấp.", 
+            "Bộ giao thông vận tải."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Cơ quan nào chịu trách nhiệm trước chính phủ trong việc thực hiện quản lý Nhà nước về đảm bảo trật tự, an toàn giao thông:",
+        options: [
+            "Bộ giao thông vận tải.", 
+            "Bộ công an.", 
+            "Cục quản lý đường bộ.", 
+            "Cục quản lý đường biển."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Cơ quan nào trực tiếp chỉ đạo, hướng dẫn kiểm tra thực hiện pháp luật về bảo đảm trật tự, an toàn giao thông:",
+        options: [
+            "Viện kiểm sát nhân nhân tối cao.", 
+            "Tòa án nhân nhân tối cao.", 
+            "Bộ công an.", 
+            "Bộ giao thông vận tải."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Cơ quan bảo vệ pháp luật trong bảo đảm trật tự, an toàn giao thông bao gồm:",
+        options: [
+            "Bộ công an; Bộ quốc phòng; Tòa án nhân dân tối cao.", 
+            "Công an; Viện kiểm soát; Tòa án.", 
+            "Bộ giao thông vận tải; Bộ công an; Bộ quốc phòng.", 
+            "Tòa án; quân đội; công an."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phòng, chống vi phạm về bảo đảm TTATGT Là sử dụng các biện pháp, phương tiện để phát hiện, ngăn chặn, đấu tranh, điều tra. Nhằm khắc phục những nguyên nhân, điều kiện dẫn đến phạm tội về vi phạm pháp luật bảo đảm trật tự an toàn giao thông là:",
+        options: [
+            "Giải pháp phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Nhiệm vụ phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Khái niệm phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Mục tiêu phòng chống vi phạm về bảo đảm TTATGT."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tăng cường sự lãnh đạo, chỉ đạo thường xuyên của các cấp ủy đảng, chính quyền, các ngành, các tổ chức đoàn thể từ Trung ương đến địa phương về bảo đảm TTATGT là:",
+        options: [
+            "Nhiệm vụ phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Khái niệm phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Giải pháp phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Mục tiêu phòng chống vi phạm về bảo đảm TTATGT."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Nâng cao nhâṇ thức và ý thức tự giác chấp hành pháp luật của người tham gia giao thông, xây dựng văn hóa giao thông trong cộng đồng là:",
+        options: [
+            "Các giải pháp chủ yếu về bảo đảm TTATGT.", 
+            "Trách nhiệm của sinh viên.", 
+            "Mục tiêu phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Khái niệm phòng chống vi phạm về bảo đảm TTATGT."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Đổi mới, nâng cao hiệu quả hoạt động tuyên truyền, phổ biến, giáo dục pháp luật về TTATGT là:",
+        options: [
+            "Khái niệm về bảo đảm TTATGT.", 
+            "Các giải pháp chủ yếu về phòng, chống vi phạm pháp luật bảo đảm TTATGT.", 
+            "Mục tiêu phòng chống vi phạm về bảo đảm TTATG.", 
+            "Nhiệm vụ phòng chống vi phạm về bảo đảm TTATGT."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Tuyên truyền, vận động mọi người tham gia giao thông tự giác chấp hành pháp luật trật tự an toàn giao thông là:",
+        options: [
+            "Nhiêm vụ phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Mục tiêu phòng, chống vi phạm luật giao thông.", 
+            "Trách nhiệm của sinh viên.", 
+            "Trách nhiệm của gia đình."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Nâng cao hiệu quả quản lý Nhà nước trong hoạt động bảo đảm TTATGT; nâng cao ý thức trách nhiệm của người thực thi công vụ về bảo đảm (TTATGT) là:",
+        options: [
+            "Mục tiêu phòng chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Nhiệm vụ phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Giải pháp phòng chống vi phạm về bảo đảm TTATGT.", 
+            "Khái niệm về vi phạm pháp luật bảo đảm TTATGT."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Tiếp tục giảm cả 3 tiêu chí về số vụ, số người chết, số người bị thương do tai nạn giao thông là:",
+        options: [
+            "Nhiệm vụ phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Mục tiêu phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Biện pháp phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Giải pháp chống vi phạm pháp luật về bảo đảm TTATGT."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Tập trung nâng cao chất lượng xây dựng và kịp thời ban hành các văn bản quy phạm pháp luật về trật tự an toàn giao thông là:",
+        options: [
+            "Giải pháp phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Phương hướng phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Nhiệm vụ phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Biện pháp phòng, chống vi phạm pháp luật về bảo đảm TTATGT."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Đẩy mạnh hoạt động tuần tra, kiểm soát (TTKS) và xử lý nghiêm các hành vi vi phạm TTATGT là:",
+        options: [
+            "Biện pháp phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Nhiệm vụ phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Khái niệm phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Phương hướng phòng, chống vi phạm pháp luật về bảo đảm TTATGT."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Nâng cao hiệu quả quản lý Nhà nước trong lĩnh vực bảo đảm TTATGT là:",
+        options: [
+            "Nhiệm vụ phòng, chống vi phạm pháp luật về bảo đảm TTATGT.", 
+            "Khái niệm về phòng, chống vi phạm pháp luật bảo đảm TTATGT.", 
+            "Phương hướng về phòng, chống vi phạm pháp luật bảo đảm TTATGT.", 
+            "Các giải pháp chủ yếu về phòng, chống vi phạm pháp luật bảo đảm TTATGT."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Điều 260, mục 1 của luật hình sự qui định phạt tiền từ 30.000.000 đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm khi tham gia giao thông:",
+        options: [
+            "Gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người mà tỷ lệ tổn thương cơ thể 41% trở lên.", 
+            "Gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người mà tỷ lệ tổn thương cơ thể 61% trở lên.", 
+            "Gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người mà tỷ lệ tổn thương cơ thể 51% trở lên.", 
+            "Gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người mà tỷ lệ tổn thương cơ thể 71% trở lên."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Bộ luật hình sự Việt nam được thông qua bởi",
+        options: [
+            "Quốc hội nước cộng hòa XHCN Việt Nam.", 
+            "Nhà nước cộng hòa XHCN Việt Nam", 
+            "Đảng cộng sản Việt Nam.", 
+            "Mặt trận Tổ quốc Việt Nam."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Tiếp tục triển khai thực hiện có hiệu quả Chỉ thị số 18-CT/TW ngày 04/9/2012 của Ban Bí thư Trung ương Đảng về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm TTATGT là:",
+        options: [
+            "Biện pháp phòng, chống vi phạm pháp luật bảo đảm TTATGT.", 
+            "Phương hướng phòng, chống vi phạm pháp luật bảo đảm TTATGT.", 
+            "Các giải pháp chủ yếu về phòng, chống vi phạm pháp luật bảo đảm TTATGT.", 
+            "Nhiệm vụ phòng, chống vi phạm pháp luật bảo đảm TTATGT."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tích cực tham gia học luật giao thông đường bộ, tìm hiểu nắm vững thêm các điều luật và quy định đảm bảo trật tự an toàn giao thông là nội dung của:",
+        options: [
+            "Khái niện an toàn giao thông.", 
+            "Nhiệm vụ của bảo đảm an toàn giao thông.", 
+            "Trách nhiệm của sinh viên.", 
+            "Các giải pháp chủ yếu bảo đảm ATGT."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Chính phủ ban hành Nghị định 100/2019/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt vào ngày:",
+        options: [
+            "Ngày 30/12/2019.", 
+            "Ngày 28/12/2019.", 
+            "Ngày 29/12/2019.", 
+            "Ngày 31/12/2019."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Chấp hành nghiêm túc hệ thống báo hiệu đường bộ, đi đúng phần đường, làn đường quy định; không sử dụng rượu, bia trước khi điều khiển phương tiện tham gia giao thông, không điều khiển xe chạy quá tốc độ qui định là nội dung:",
+        options: [
+            "Trách nhiệm của sinh viên.", 
+            "Nhiệm vụ của bảo đảm an toàn giao thông.", 
+            "Phương hướng đảm an toàn giao thông.", 
+            "Giải pháp đảm an toàn giao thông."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Điều 260, mục 1 của luật hình sự qui định phạt tiền từ 30.000.000 đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm khi tham gia giao thông:",
+        options: [
+            "Gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 41% đến 121%.", 
+            "Gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 61% đến 121%.", 
+            "Gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 51% đến 121%.", 
+            "Gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của những người này từ 71% đến 121%."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Nghị định 100/2019/NĐ-CP. Điều 6. Xử phạt người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy vi phạm quy tắc giao thông đường bộ “Chở người ngồi trên xe sử dụng ô (dù)” sẽ bị:",
+        options: [
+            "Phạt tiền từ 50.000 đồng đến 150.000 đồng.", 
+            "Phạt tiền từ 100.000 đồng đến 250.000 đồng.", 
+            "Phạt tiền từ 100.000 đồng đến 200.000 đồng.", 
+            "Phạt tiền từ 150.000 đồng đến 300.000 đồng."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong các giải pháp chủ yếu phòng, chống vi phạm pháp luật về bảo đảm TTATGT:",
+        options: [
+            "Nâng cao nhận thức và ý thức tự giác chấp hành pháp luật của người tham gia giao thông.", 
+            "Đẩy mạnh hoạt động tuần tra, kiểm soát (TTKS) và xử lý nghiêm các hành vi vi phạm TTATGT.", 
+            "Tăng cường sự lãnh đạo, chỉ đạo thường xuyên của các cấp ủy đảng, chính quyền.", 
+            "Nâng cao hiệu quả quản lý Nhà nước trong lĩnh vực bảo đảm TTATGT."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong các nhiệm vụ phòng, chống vi phạm pháp luật về bảo đảm TTATGT:",
+        options: [
+            "Giảm ùn tắc giao thông trong các đô thị lớn.", 
+            "Tập trung nâng cao chất lượng xây dựng và kịp thời ban hành các văn bản quy phạm pháp luật về trật tự an toàn giao thông đường bộ, đường sắt, đường thủy nội địa, hàng hải, hàng không.", 
+            "Đổi mới, nâng cao hiệu quả hoạt động tuyên truyền pháp luật về TTATGT.", 
+            "Tiếp tục giảm cả 3 tiêu chí về số vụ, số người chết, số người bị thương do tai nạn giao thông."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong các giải pháp phòng, chống vi phạm pháp luật về bảo đảm TTATGT:",
+        options: [
+            "Nâng cao nhận thức và ý thức tự giác chấp hành phát luật của người tham gia giao thông.", 
+            "Tích cực tham gia học luật giao thông đường bộ.", 
+            "Giảm ùn tắc giao thông.", 
+            "Vận động mọi người tham gia giao thông tự giác chấp hành pháp luật trật tự an toàn giao thông."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Lực lượng nòng cốt xung kích trong đảm bảo trật tự, an toàn giao thông là:",
+        options: [
+            "Dân phòng.", 
+            "Quân đội.", 
+            "Dân quân tự vệ.", 
+            "Công an."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Cơ quan chịu trách nhiệm nghiên cứu phân tích, đánh giá tình trạng vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông:",
+        options: [
+            "Bộ quốc phòng.", 
+            "Quốc hội.", 
+            "Bộ công an.", 
+            "Bộ giao thông vận tải."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Cơ quan nào chịu trách nhiệm đề xuất, kiến nghị trong việc hoạch định các chính sách áp dụng các biện pháp xử lý vi phạm pháp luật về đảm bảo trật tự, an toàn giao thông?",
+        options: [
+            "Bộ công an.", 
+            "Quốc hội.", 
+            "Bộ giao thông vận tải.", 
+            "Mặt trận tổ quốc Việt Nam."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Cơ quan nào sử dụng các biện pháp nghiệp vụ chuyên môn theo chức năng trong đảm bảo trật tự, an toàn giao thông?",
+        options: [
+            "Bộ giao thông vận tải.", 
+            "Bộ công an.", 
+            "Quốc hội.", 
+            "Tòa án nhân dân tối cao."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Lực lượng nào là lực lượng tham gia trực tiếp bảo vệ pháp luật về đảm bảo trật tự, an toàn giao thông?",
+        options: [
+            "Thanh niên xung phong.", 
+            "Quân đội.", 
+            "Công an.", 
+            "Dân quân tự vệ."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Trách nhiệm của công dân trong tham gia đảm bảo trật tự, an toàn giao thông:",
+        options: [
+            "Điều tra các đối tượng vi phạm.", 
+            "Tham gia trực tiếp đấu tranh phòng chống vi phạm pháp luật về đảm bảo trật tự, an toàn giao thông.", 
+            "Xử lý các trường hợp vi phạm.", 
+            "Tích cực hợp tác, chia sẻ thông tin."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những nội dung hợp tác giữa các chủ thể tham gia đảm bảo trật tự, an toàn giao thông là:",
+        options: [
+            "Phối hợp tổ chức tuyên truyền, giáo dục pháp luật về bảo đảm trật tư, an toàn giao thông.", 
+            "Phối hợp trong truy tìm, vây bắt đối tượng vi phạm.", 
+            "Phối hợp trong dẫn độ đối tượng vi phạm.", 
+            "Phối hợp trong xét xử đối tượng vi phạm."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những biên pháp phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn tham gia giao thông là:",
+        options: [
+            "Tuyên truyền, phổ biến về chính sách phát triển kinh tế - xã hội.", 
+            "Tuyên truyền, phổ biến, giáo dục pháp luật về bảo đảm trật tự, an toàn giao thông cho mọi công dân.", 
+            "Tuyên truyền, phổ biến về Bộ luật hình sự hiện hành.", 
+            "Tuyên truyền về hậu quả của các hành vi vi phạm và chế tài xử lý."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Mục đích của công tác tuyên truyền, phổ biến, giáo dục pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+        options: [
+            "Nâng cao ý thức trong giữ gìn an ninh trật tự.", 
+            "Nâng cao tinh thần đấu tranh, tố giác tội phạm.", 
+            "Nâng cao ý thức chấp hành pháp luật về bảo đảm trật tự, an toàn giao thông.", 
+            "Nâng cao hiểu biết về chính sách phát triển kinh tế - xã hội của đất nước."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những biên pháp phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn tham gia giao thông là:",
+        options: [
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp về phát triển kinh tế - xã hội.", 
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp phòng chống vi phạm pháp luật về bảo đảm trật tự ,an toàn giao thông.", 
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp về đảm bảo trị an.", 
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp về đấu tranh trấn át tội phạm."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những biên pháp phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn khi tham gia giao thông là:",
+        options: [
+            "Tổ chức phát động phong trào toàn dân tham gia phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông.", 
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp về phát triển kinh tế - xã hội.", 
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp về đảm bảo trị an.", 
+            "Phát huy vai trò của lực lượng chuyên trách trong xử phạt đối tượng vi phạm."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Tổ chức phát động phong trào toàn dân tham gia phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông gắn với phong trào:",
+        options: [
+            "Xóa đói giảm nghèo.", 
+            "Phòng chống tệ nạn xã hội.", 
+            "Toàn dân tham gia bảo vệ an ninh Tổ quốc.", 
+            "Phòng chống dịch Covid."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những biên pháp phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+        options: [
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp về phát triển kinh tế - xã hội.", 
+            "Tham mưu, đề xuất với Nhà nước xây dựng và hoàn thiện hệ thống các văn bản pháp luật phục vụ phòng chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông.", 
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp về đảm bảo trị an.", 
+            "Tham mưu cho cấp ủy đảng, chính quyền các cấp đề ra chủ trương, biện pháp về nâng cao ý thức cho mọi người dân khi tham gia giao thông."
+        ],
+        correctAnswer: 1
+    },
 ];
