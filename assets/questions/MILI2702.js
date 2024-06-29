@@ -383,4 +383,389 @@ const questions = [
         ],
         correctAnswer: 1
     },
+
+    {
+        question: "Chủ nghĩa đế quốc và các thế lực thù địch chống phá cách mạng nước ta hiện nay là toàn diện, trên tất cả các lĩnh vực của đời sống xã hội với:",
+        options: [
+            "Các thủ đoạn xảo quyệt dễ nhận được.", 
+            "Nhiều thủ đoạn tinh vi khó nhận biết.", 
+            "Nhiều hình thức tinh vi khó nhận rõ.", 
+            "Các biện pháp khôn khéo khó nhận ra."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "“Diễn biến hòa bình” là:",
+        options: [
+            "Phương thức chủ yếu của chủ nghĩa đế quốc và các thế lực phản động.", 
+            "Chiến lược cơ bản của chủ nghĩa đế quốc và các thế lực phản động.", 
+            "Sách lược chủ yếu của chủ nghĩa đế quốc và các thế lực phản động.", 
+            "Thủ đoạn cơ bản của chủ nghĩa đế quốc và các thế lực phản động."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Biện pháp của chủ nghĩa đế quốc và các thế lực phản động tiến hành chiến lược “Diễn biến hòa bình” là:",
+        options: [
+            "Biện pháp phi quân sự.", 
+            "Biện pháp quân sự.", 
+            "Biện pháp ngoại giao.", 
+            "Biện pháp bạo loạn."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Chiến lược “Diễn biến hòa bình” được bắt nguồn từ:",
+        options: [
+            "Nước Nga.", 
+            "Nước Đức.", 
+            "Nước Mỹ.", 
+            "Nước Pháp."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Chủ nghĩa đế quốc và các thế lực thù địch sử dụng chiến lược “Diễn biến hòa bình” đối với Việt Nam nhằm:",
+        options: [
+            "Tự do hóa đời sống chính trị, xã hội.", 
+            "Xóa bỏ hệ thống chính trị, kinh tế.", 
+            "Lật đổ chế độ, theo quỹ đạo của chúng.", 
+            "Xóa bỏ vai trò lãnh đạo của Đảng."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Chiến lược “Diễn biến hòa bình” bắt đầu hình thành từ:",
+        options: [
+            "Năm 1930.", 
+            "Năm 1945.", 
+            "Năm 1960.", 
+            "Năm 1954."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Mục tiêu của chủ nghĩa đế quốc và các thế lực thù địch sử dụng chiến lược “Diễn biến hòa bình” đối với Việt Nam là:",
+        options: [
+            "Xóa bỏ hệ thống chính trị - xã hội.", 
+            "Thực hiện chế độ đa nguyên chính trị.", 
+            "Thực hiện tự do chính trị - xã hội.", 
+            "Xóa bỏ chế độ xã hội chủ nghĩa."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Vùng lãnh thổ nào của nước ta mà kẻ thù kích động đồng bào đòi ly khai thành lập nhà nước Đề Ga?",
+        options: [
+            "Tây Bắc.", 
+            "Tây Nguyên.", 
+            "Tây Nam.", 
+            "Đông Bắc."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Mục đích chống phá tư tưởng - văn hóa trong chiến lược “ Diễn biến hòa bình” là:",
+        options: [
+            "Xóa bỏ nguồn gốc tư tưởng XHCN.", 
+            "Xóa bỏ chủ nghĩa Mác Lênin, tư tưởng Hồ Chí Minh.", 
+            "Xóa bỏ đường lối chính trị của Đảng Cộng sản.", 
+            "Xóa bỏ tư tưởng vô sản,thiết lập tư tưởng tư sản."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Hình thức của bạo loạn lật đổ gồm có:",
+        options: [
+            "Bạo loạn vũ trang, bạo loạn chính trị hoặc bạo loạn chính trị với gây rối.", 
+            "Bạo loạn chính trị với gây rối hoặc kết hợp gây rối với phá hoại.", 
+            "Bạo loạn chính trị, bạo loạn vũ trang, hoặc bạo loạn chính trị với vũ trang.", 
+            " Bạo loạn chính trị kết hợp với quân sự hoặc chính trị kết hợp với kinh tế."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Phòng chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ, chúng ta phải:",
+        options: [
+            "Xây dựng các tổ chức chính trị, tổ chức quần chúng vững chắc.", 
+            "Xây dựng ý thức bảo vệ Tổ quốc cho toàn dân.", 
+            "Xây dựng các lực lượng vũ trang đặc biệt là công an vững mạnh.", 
+            "Nâng cao nhận thức về âm mưu phá hoại của kẻ thù."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những giải pháp phòng chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ là:",
+        options: [
+            "Đẩy mạnh công nghiệp hóa hiện đại hóa, chống tụt hậu kinh tế.", 
+            "Xây dựng hệ thống chính trị cả nước vững mạnh toàn diện.", 
+            "Chăm lo xây dựng lực lượng vũ trang ở địa phương vững mạnh.", 
+            "Xây dựng lòng yêu nước cho tuổi trẻ nhất là học sinh, sinh viên."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "“Bạo loạn lật đổ” là thủ đoạn gắn liền với:",
+        options: [
+            "Chính sách “Cấm vận kinh tế, cô lập ngoại giao”.", 
+            "Biện pháp “Ngăn chặn chủ nghĩa cộng sản”.", 
+            "Chiến lược “Phi quân sự”.", 
+            "Chiến lươc “Diễn biến hòa bình”."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Nhiệm vụ cấp bách hàng đầu trong các nhiệm vụ quốc phòng, an ninh ở nước ta là: ",
+        options: [
+            "Phòng chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ.", 
+            "Phòng chống địch tiến công hỏa lực bằng vũ khí công nghệ cao.", 
+            "Phòng chống địch lợi dụng vấn đề dân tộc, tôn giáo.", 
+            "Phòng chống tội phạm, tệ nạn xã hội và bảo vệ an ninh quốc gia."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Chủ nghĩa đế quốc và các thế lực thù địch kích động người H’Mông đòi thành lập khu tự trị riêng ở:",
+        options: [
+            "Vùng Đông Bắc.", 
+            "Vùng Tây Nguyên.", 
+            "Vùng Tây Bắc.", 
+            "Vùng Tây Nam Bộ."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Lực lượng tiến hành bạo loạn lật đổ thường là:",
+        options: [
+            "Lực lượng đối lập phối hợp chặt chẽ với lực lượng ly khai bên ngoài.", 
+            "Lực lượng ly khai, đối lập trong nước hoặc cấu kết với nước ngoài.", 
+            "Lực lượng ly khai phối hợp với lực lượng dân chủ, nhân quyền.", 
+            "Lực lượng bất mãn chống đối trong nước cấu kết với kẻ thù từ bên ngoài."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Thực hiện chiến lược “Diễn biến hòa bình”, chủ nghĩa đế quốc và các thế lực thù địch khích lệ lối sống tư sản, từng bước làm phai nhạt mục tiêu, lý tưởng xã hội chủ nghĩa ở tầng lớp:",
+        options: [
+            "Thanh niên, nhất là sinh viên.", 
+            "Học sinh, sinh viên thành thị.", 
+            "Công nhân các khu công nghiệp.", 
+            "Người dân nghèo ở thành thị."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Bạo loạn lật đổ có thể xẩy ra ở nhiều nơi, nhiều vùng của đất nước, trọng điểm là:",
+        options: [
+            "Các khu công nghiệp tập trung.", 
+            "Các trung tâm chính trị, kinh tế.", 
+            "Các trung tâm văn hóa, khoa học.", 
+            "Các khu công nghệ, kỹ thuật cao."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Thực hiện chiến lược “Diễn biến hòa bình” chống phá chủ nghĩa xã hội, chủ nghĩa đế quốc và các thế lực thù địch luôn coi Việt Nam là:",
+        options: [
+            "Vấn đề trọng điểm.", 
+            "Vấn đề cơ bản.", 
+            "Một trọng tâm.", 
+            "Một trọng điểm."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Sau thất bại về chiến lược quân sự, chủ nghĩa đế quốc và các thế lực thù địch chuyển sang chiến lược “Diễn biến hòa bình” đối với Việt Nam từ năm:",
+        options: [
+            "1976.", 
+            "1979.", 
+            "1975.", 
+            "1973."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Chủ nghĩa đế quốc và các thế lực thù địch thực hiện chiến lược “Diễn biến hòa bình” đối với Việt Nam từ khi nào?",
+        options: [
+            "Sau thất bại chiến tranh xâm lược Việt Nam.", 
+            "Khi đưa quân vào xâm lược miền Nam.", 
+            "Sau biến động chế độ xã hội chủ nghĩa ở Liên Xô.", 
+            "Khi Việt Nam tiến hành sự nghiệp đổi mới."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Trong các nhiệm vụ quốc phòng - an ninh hiện nay ở nước ta, phòng, chống chiến lược “Diễn biến hòa bình” là:",
+        options: [
+            "Nhiệm vụ cơ bản hàng đầu.", 
+            "Nhiệm vụ thường xuyên hàng đầu.", 
+            "Nhiệm vụ cấp bách hàng đầu.", 
+            "Nhiệm vụ chiến lược hàng đầu."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Nội dung nào sau đây là một trong những giải pháp phòng chống chiến lược “diễn biến hòa bình”, bạo loạn lật đổ?",
+        options: [
+            "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và chăm lo nâng cao đời sống vật chất, tinh thần cho nhân dân lao động.", 
+            "Xây dựng Đảng vững mạnh,xây dựng tinh thần đoàn kết và xây dựng các tổ chức quần chúng vững mạnh.", 
+            "Đẩy lùi các hủ tục lạc hậu,mê tín dị đoan và các tệ nạn xã hội, chăm lo đời sống vật chất, tinh thần cho nhân dân lao động.", 
+            "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước, chống nguy cơ lạc hậu về kinh tế, khắc phục các tiêu cực trong xã hội."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Thủ đoạn trên lĩnh vực quốc phòng - an ninh trong chiến lược “Diễn biến hòa bình” là:",
+        options: [
+            "Chia rẽ quân đội, công an, dân quân tự vệ và bộ đội biên phòng.", 
+            "Mua chuộc cán bộ cao cấp của quân đội và lực lượng vũ trang.", 
+            "Phủ nhận vai trò quốc phòng - an ninh trong sự nghiệp đổi mới.", 
+            "Phủ nhận vai trò lãnh đạo của Đảng trong lĩnh vực quốc phòng - an ninh."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Phòng chống chiến lược “diễn biến hòa bình”, bạo loạn lật đổ, chúng ta phải thực hiện giải pháp:",
+        options: [
+            "Xây dựng cơ sở chính trị - xã hội vững mạnh về mọi mặt.", 
+            "Đẩy mạnh công nghiệp hóa, chống nguy cơ tụt hậu kinh tế.", 
+            "Đẩy lùi các hủ tục lạc hậu, mê tín dị đoan và các tệ nạn xã hội.", 
+            "Xây dựng lòng yêu nước cho tuổi trẻ nhất là học sinh, sinh viên."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Nhiệm vụ phòng chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ được xác định là nhiệm vụ:",
+        options: [
+            "Trọng tâm lâu dài của cách mạng Việt Nam.", 
+            "Chủ yếu, cấp bách trước mắt cũng như lâu dài.", 
+            "Cơ bản trong thời kỳ quá độ xã hội chủ nghĩa.", 
+            "Cấp bách hàng đầu, thường xuyên và lâu dài."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Quan hệ giữa “Diễn biến hòa bình” và bạo loạn lật đổ:",
+        options: [
+            "“Diễn biến hòa bình” là quá trình đưa đến nguyên nhân và điều kiện của bạo loạn lật đổ.", 
+            "“Diễn biến hòa bình” là quá trình tạo nên những điều kiện, thời cơ cho bạo loạn lật đổ.", 
+            "“Diễn biến hòa bình” là quá trình tạo yếu tố quyết định cho bạo loạn lật đổ.", 
+            "“Diễn biến hòa bình” là quá trình tạo thời cơ quan trọng nhất cho bạo loạn lật đổ."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Trong chiến lược “Diễn biến hòa bình”, thủ đoạn về kinh tế được kẻ thù xác định là:",
+        options: [
+            "Thủ đoạn hàng đầu.", 
+            "Thủ đoạn chủ yếu.", 
+            "Thủ đoạn mũi nhọn.", 
+            "Thủ đoạn cơ bản."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Chống phá về chính trị trong chiến lược “Diễn biến hòa bình”, kẻ thù âm mưu thực hiện:",
+        options: [
+            "Xóa bỏ vai trò lãnh đạo của Đảng và chế độ xã hội chủ nghĩa.", 
+            "Đối lập chủ nghĩa Mác Lênin và tư tưởng Hồ Chí Minh.", 
+            "Phủ định chủ nghĩa Mác Lênin, xóa bỏ chủ nghĩa xã hội.", 
+            "Đối lập nhiệm vụ kinh tế và quốc phòng, an ninh trật tự."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Thực hiện thủ đoạn chống phá về chính trị trong chiến lược “Diễn biến hòa bình” đối với cách mạng Việt Nam, kẻ thù tiến hành:",
+        options: [
+            "Phá vỡ khối đại đoàn kết toàn dân của các tổ chức chính trị, xã hội.", 
+            "Kích động đòi thực hiện chế độ “đa nguyên chính trị, đa đảng đối lập”.", 
+            "Chia rẽ nội bộ, kích động gây rối loạn các tổ chức trong xã hội.", 
+            "Cô lập Đảng, Nhà nước với quân đội nhân dân và công an nhân dân."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Để cùng cả nước phòng chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ, sinh viên phải:",
+        options: [
+            "Phát hiện và góp phần đấu tranh đánh bại mọi âm mưu, thủ đoạn của kẻ thù.", 
+            "Đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đưa đất nước phát triển.", 
+            "Nâng cao đời sống vật chất, tinh thần cho công nhân và nhân dân lao động.", 
+            "Chăm lo xây dựng lực lượng vũ trang ở địa phương vững mạnh toàn diện."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những nội dung chống phá về kinh tế của chiến lược “Diễn biến hòa bình” là:",
+        options: [
+            "Khuyến khích kinh tế nước ngoài phát triển giữ vai trò chủ đạo của kinh tế đất nước.", 
+            "Làm mất vai trò chủ đạo của kinh tế Nhà nước, từng bước lệ thuộc chủ nghĩa đế quốc.", 
+            "Kêu gọi kinh tế cá thể phát triển, từng bước đưa kinh tế tư nhân thay thế kinh tế quốc doanh.", 
+            "Phát triển nhanh kinh tế tư bản Nhà nước, giữ vai trò chủ đạo của kinh tế đất nước."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Chống phá trên lĩnh vực đối ngoại trong chiến lược “Diễn biến hòa bình” kẻ thù thực hiện thủ đoạn:",
+        options: [
+            "Chia rẽ Việt Nam với Lào và các nước xã hội chủ nghĩa còn lại.", 
+            "Chia rẽ Việt Nam với các nước tiến bộ, yêu chuộng hòa bình.", 
+            "Chia rẽ Việt Nam với Lào, Campuchia và các nước xã hội chủ nghĩa.", 
+            "Chia rẽ Việt Nam với Campuchia và các nước tiến bộ trên thế giới."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Thực hiện thủ đoạn “Diễn biến hòa bình” về văn hóa, kẻ thù tập trung tấn công vào:",
+        options: [
+            "Những sản phẩm văn hóa quý báu của chúng ta.", 
+            "Bản sắc văn hóa và giá trị văn hóa của dân tộc Việt Nam.", 
+            "Truyền thống kinh nghiệm của văn hóa Việt Nam.", 
+            "Nền văn hóa và sản phẩm văn hóa dân tộc Việt Nam."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Thực hiện thủ đoạn trong lĩnh vực tôn giáo – dân tộc của chiến lược “Diễn biến hòa bình”, kẻ thù lợi dụng vấn đề dân tộc để kích động tư tưởng:",
+        options: [
+            "Đòi biểu tình, ly khai lập khu tự trị.", 
+            "Chia rẽ các dân tộc, gây mâu thuẫn.", 
+            "Đòi li khai, tự quyết dân tộc.", 
+            "Gây mâu thuẫn giữa các dân tộc."
+        ],
+        correctAnswer: 2
+    },
 ];
