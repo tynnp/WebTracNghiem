@@ -1378,4 +1378,666 @@ const questions = [
         ],
         correctAnswer: 1
     },
+
+    // Bài 3: Phòng, chống vi phạm pháp luật về bảo vệ mội trường
+
+    {
+        question: "Luật Bảo vệ môi trường năm 2020 được Quốc hội thông qua:",
+        options: [
+            "Ngày 17/09 năm 2020.", 
+            "Ngày 17/11 năm 2020.", 
+            "Ngày 17/10 năm 2020.", 
+            "Ngày 17/12 năm 2020."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Luật Bảo vệ môi trường có hiệu lực từ:",
+        options: [
+            "Ngày 01/07 năm 2022.", 
+            "Ngày 01/01 năm 2021.", 
+            "Ngày 01/01 năm 2022.", 
+            "Ngày 01/07 năm 2021."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Theo Luật Bảo vệ môi trường năm 2020 thì môi trường là:",
+        options: [
+            "Hệ thống các yếu tố vật chất tự nhiên và môi trường xã hội ảnh hưởng đến phát triển kinh tế - xã hội.", 
+            "Hệ thống các yếu tố vật chất tự nhiên và nhân tạo quan hệ mật thiết với nhau bao quanh con người.", 
+            "Hệ thống các yếu tố vật chất nhân tạo và môi trường xã hội quyết định sự tồn tại và phát triển của con người.", 
+            "Hệ thống các yếu tố vật chất nhân tạo và môi trường không gian mạng chi phối đến mọi hoạt động của con người."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Theo Luật Bảo vệ môi trường năm 2020 thì thành phần môi trường bao gồm",
+        options: [
+            "Các yếu tố vật chất tự nhiên và xã hội.", 
+            "Các yếu tố vất chất nhân tạo và xã hội.", 
+            "Các yếu tố vật chất tự nhiên, nhân tạo và xã hội.", 
+            "Các yếu tố vật chất tự nhiên và nhân tạo."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Môi trường tự nhiên bao gồm:",
+        options: [
+            "Tất cả các yếu tố vật chất trên trái đất.", 
+            "Tất cả các yếu tố tự nhiên và vật chất do con người tạo ra.", 
+            "Tất cả các yếu tố tự nhiên trên trái đất.", 
+            "Tất cả các yếu tố vật chất do con nguời tạo ra."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Môi trường nhân tạo bao gồm:",
+        options: [
+            "Các yếu tố vật chất do con người tạo ta.", 
+            "Các yếu tố vật chất do máy móc tạo ra.", 
+            "Các yếu tố phi vật chất do con người tạo ta.", 
+            "Các yếu tố vật chất do con người cải tạo từ tự nhiên."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "“Pháp luật quy định những quy tắc xử sự mà con người phải thực hiện khi khai thác và sử dụng các yếu tố của môi trường” là nói đến:",
+        options: [
+            "Vị trí của pháp luật bảo vệ môi trường.", 
+            "Vai trò của pháp luật về bảo vệ môi trường.", 
+            "Tính chất của pháp luật bảo vệ môi trường.", 
+            "Đặc điểm của pháp luật bảo vệ môi trường."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: " Hệ thống quy chuẩn môi trường, tiêu chuẩn môi trường do:",
+        options: [
+            "Quốc hội và Hội đồng nhân dân các cấp ban hành.", 
+            "Chính phủ và Ủy ban nhân dân các cấp ban hành.", 
+            "Cơ quan nhà nước có thẩm quyền ban hành.", 
+            "Bộ tài nguyên và môi trường ban hành."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Quy chuẩn môi trường, tiêu chuẩn môi trường là:",
+        options: [
+            "Trách nhiệm pháp lý để tòa án áp dụng đối với các cá nhân, tổ chức vi phạm.", 
+            "Điều kiện pháp lý để cơ quan bảo vệ pháp luật xử phạt tổ chức, cá nhân vi phạm.", 
+            "Nguyên tắc pháp lý để cho mọi cá nhân, tổ chức chấp hành và tuân thủ.", 
+            "Cơ sở pháp lý cho việc xác định có vi phạm pháp luật về môi trường hay không."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: " Thực chất của quy chuẩn môi trường, tiêu chuẩn môi trường:",
+        options: [
+            "Quy chuẩn, tiêu chuẩn kỹ thuật.", 
+            "Quy chuẩn, thông số kỹ thuật.", 
+            "Quy chuẩn, chỉ số kỹ thuật.", 
+            "Quy chuẩn, định mức kỹ thuật."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Các chế tài được áp dụng trong khai thác, sử dụng các yếu tố môi trường là:",
+        options: [
+            "Chế tài hình sự, chế tài kinh tế, chế tài bảo vệ, chế tài bảo đảm.", 
+            "Chế tài hình sự, chế tài kinh tế, chế tài hành chính, chế tài dân sự.", 
+            "Chế tài kinh tế, chế tài hành chính, chế tài trừng trị, chế tài khôi phục.", 
+            "Chế tài hành chính, chế tài dân sự, chế tài thương mại, chế tài vô hiệu hóa."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Chế tài được sử dụng trong lĩnh vực bảo vệ môi trường, vừa có tác dụng ngăn chặn các hành vi vi phạm, vừa có tác dụng:",
+        options: [
+            "Cưỡng chế công dân vi phạm pháp luật bảo vệ môi trường.", 
+            "Xử phạt cộng đồng doanh nghiệp vi phạm pháp luật bảo vệ môi trường.", 
+            "Giáo dục công dân tôn trọng pháp luật bảo vệ môi trường.", 
+            "Truy cứu trách nhiệm doanh nghiệp vi phạm pháp luật bảo vệ môi trường."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Thông qua pháp luật bảo vệ môi trường Nhà nước quy định:",
+        options: [
+            "Nghĩa vụ, trách nhiệm, quy định của tổ chức trong công tác bảo vệ môi trường.", 
+            "Chức năng, nhiệm vụ, quyền hạn của tổ chức trong công tác bảo vệ môi trường.", 
+            "Nguyên tắc hoạt động của cơ quan Nhà nước trong công tác bảo vệ môi trường.", 
+            " Quy tắc, thủ tục hành chính của cơ quan Nhà nước trong công tác bảo vệ môi trường."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Trong giải quyết tranh chấp liên quan đến bảo vệ môi trường thì pháp luật bảo vệ môi trường là:",
+        options: [
+            "Hệ thống các quy phạm pháp luật điều chỉnh hành vi, xử sự.", 
+            "Hệ thống các quy phạm pháp luật điều chỉnh hành vi.", 
+            "Hệ thống các quy phạm pháp luật điều chỉnh hành động.", 
+            "Hệ thống những quy định và chế tài xử phạt."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Văn bản quy phạm pháp luật cao nhất trong hệ thống pháp luật Việt Nam về bảo vệ môi trường là: ",
+        options: [
+            "Luật, pháp lệnh.", 
+            "Nghị định, nghị quyết.", 
+            "Hiến pháp.", 
+            "Văn bản hướng dẫn thi hành."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: " Hình thức xử lý vi phạm pháp luật trong lĩnh vực bảo vệ môi trường, bao gồm:",
+        options: [
+            "Xử lý hình sự, xử lý phạt tù, xử lý phạt tiền.", 
+            "Xử lý hình sự, xử lý vi phạm hành chính, xử lý trách nhiệm dân sự.", 
+            "Xứ lý vi phạm hành chính, xử lý phạt tiền, bồi thường.", 
+            "Xử lý trách nhiệm dân sự, buộc khôi phục trạng thái ban đầu."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Tội phạm về môi trường là hành vi nguy hiểm cho xã hội được quy định trong:",
+        options: [
+            "Bộ Luật Tố tụng hình sự năm 2015 (bổ sung, sửa đổi năm 2017).", 
+            "Luật Bảo vệ môi trường năm 2020.", 
+            "Bộ Luật hình sự năm 2015 (bổ sung, sửa đổi năm 2017).", 
+            "Bộ Luật dân sự năm 2015."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tội phạm về môi trường là xâm phạm đến các quy định của Nhà nước về bảo vệ môi trường, xâm phạm đến các yếu tố môi trường làm thay đổi:",
+        options: [
+            "Trạng thái, tính chất của môi trường.", 
+            "Quy chuẩn, tiêu chuẩn môi trường.", 
+            "Thông số, kỹ thuật môi trường.", 
+            "Định mức, kỹ thuật môi trường."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những nguyên nhân điều kiện khách quan dẫn đến vi phạm pháp luật về môi trường là do:",
+        options: [
+            "Sự phát triển quá nhanh của nền kinh tế.", 
+            "Quy chuẩn môi trường, tiêu chuẩn môi trường quá khắt khe.", 
+            "Áp lực tăng trưởng kinh tế.", 
+            "Các khu đô thị và khu dân cư ngày càng nhiều."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: " “Các cơ quan Nhà nước có thẩm quyền ban hành nhiều chính sách ưu đãi để phát triển kinh tế mà không quan tâm đến bảo vệ môi trường” là một trong những:",
+        options: [
+            "Nguyên nhân, điều kiện chủ quan.", 
+            "Nguyên nhân, điều kiện khách quan.", 
+            "Nguyên nhân, điều kiện đối tượng vi phạm.", 
+            "Nguyên nhân, điều kiện của cơ quan Nhà nước."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những nguyên nhân điều kiện chủ quan dẫn đến vi phạm pháp luật về môi trường là:",
+        options: [
+            "Chế tài xử lý vi phạm chưa đủ mạnh, chưa đủ sức răn đe.", 
+            "Các thủ đoạn vi phạm ngày càng tinh vi, khó kiểm soát.", 
+            "Các cơ quan chức năng chưa phát huy hết vai trò, trách nhiệm.", 
+            "Công tác quản lý của cơ quan chức năng còn chồng chéo."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những nguyên nhân, điều kiện chủ quan của vi phạm pháp luật về bảo vệ môi trường là:",
+        options: [
+            "Phần lớn cán bộ trong lực lượng trực tiếp đấu tranh phòng, chống còn thiếu các kiến thức chuyên sâu về môi trường.", 
+            "Ý thức coi thường pháp luật, sống thiếu kỷ cương không tuân thủ các quy tắc, chuẩn mực xã hội.", 
+            "Các cơ quan chức năng chưa phát huy hết vai trò, trách nhiệm trong phòng, chống vi phạm pháp luật về bảo vệ môi trường.", 
+            "Các cơ quan Nhà nước có thẩm quyền ban hành nhiều chính sách ưu đãi để phát triển kinh tế mà không quan tâm đến bảo vệ môi trường."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "“Đội ngũ cán bộ chiến sỹ trực tiếp đấu tranh phòng chống vi phạm pháp luật về bảo vệ môi trường còn thiếu” là một trong những:",
+        options: [
+            "Nguyên nhân điều kiện khách thể.", 
+            "Nguyên nhân, điều kiện chủ quan.", 
+            "Nguyên nhân, điều kiện chủ thể.", 
+            "Nguyên nhân, điều kiện khách quan."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Hầu hết các tội phạm về môi trường đều:",
+        options: [
+            "Có kiến thức nhất định về môi trường.", 
+            "Nhận thức yếu kém về môi trường.", 
+            "Nhằm mục đích thu lợi bất chính về kinh tế.", 
+            "Hoạt động trong lĩnh vực môi trường."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: " Phòng, chống vi phạm pháp luật về bảo vệ môi trường là:",
+        options: [
+            "Hoạt động của Quốc hội và HĐND các cấp.", 
+            "Hoạt động của cơ quan Nhà nước.", 
+            "Hoạt động của chính phủ và UBND các cấp.", 
+            "Hoạt động của cơ quan bảo vệ pháp luật."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phòng, chống vi phạm pháp luật về bảo vệ môi trường nhằm:",
+        options: [
+            "Duy trì môi trường trong sạch và giữ nguyên hiện trạng môi trường.", 
+            "Ngăn chặn nguy cơ, điều kiện vi phạm pháp luật về bảo vệ môi trường.", 
+            "Bảo đảm cho sự phát triển ổn định, bền vững kinh tế - xã hôi của đất nước.", 
+            "Ngăn chặn, hạn chế tình trạng vi phạm pháp luật về bảo vệ môi trường."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Phòng, chống vi phạm pháp luật về bảo vệ môi trường để:",
+        options: [
+            "Duy trì trạng thái bình thường, ngăn ngừa các hành vi vi phạm pháp luật về bảo vệ môi trường.", 
+            "Không còn tình trạng cá nhân, tổ chức, doanh nghiệp vi phạm pháp luật về bảo vệ môi trường.", 
+            "Bảo vệ người dân được sống trong môi trường trong lành, ít bị tác động bởi môi ô nhiễm.", 
+            "Kịp thời phát hiện, điều tra, xử lý các hành vi vi phạm pháp luật về bảo vệ môi trường."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Phòng, chống vi phạm pháp luật là tổng hợp các biện pháp:",
+        options: [
+            "Phòng ngừa, phát hiện, ngăn chặn và đấu tranh.", 
+            "Khởi tố, điều tra, tuy tố và xét xử.", 
+            "Phát hiện, ngăn chặn, điều tra và xử lý.", 
+            "Điều tra, tuy tố, xét xử và thi hành án."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những đặc điểm phòng, chống vi phạm pháp luật về môi trường:",
+        options: [
+            "Các cơ quan Nhà nước có thẩm quyền ban hành nhiều chính sách ưu đãi để phát triển kinh tế mà không quan tâm đến bảo vệ môi trường.", 
+            "Pháp luật xây dựng hệ thống các quy chuẩn môi trường, tiêu chuẩn môi trường để bảo vệ môi trường.", 
+            "Phòng, chống vi phạm pháp luật về bảo vệ môi trường có sự phối kết hợp chặt chẽ giữa các chủ thể tham gia trên cơ sở chức năng, quyền hạn được phân công.", 
+            "Các cơ quan chức năng chưa phát huy hết vai trò, trách nhiệm trong phòng, chống vi phạm pháp luật về bảo vệ môi trường."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: " “Phòng, chống vi phạm pháp luật về BVMT có liên quan trực tiếp đến việc sử dụng các công cụ phương tiện nghiệp vụ và ứng dụng tiến bộ của KHCN” là:",
+        options: [
+            "Tính chất phòng, chống vi phạm pháp luật về môi trường.", 
+            "Biện pháp phòng, chống vi phạm pháp luật về môi trường.", 
+            "Đặc điểm phòng, chống vi phạm pháp luật về môi trường.", 
+            " Giải pháp phòng, chống vi phạm pháp luật về môi trường."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Biện pháp tiến hành phòng, chống vi phạm pháp luật về bảo vệ môi trường có sự kết hợp hài hòa",
+        options: [
+            "Giữa biện pháp phòng ngừa với biện pháp điều tra, xử lý.", 
+            "Giữa biện pháp phòng ngừa xã hội với biện pháp phòng ngừa nghiệp vụ.", 
+            "Giữa biện pháp phòng ngừa pháp luật với biện pháp răn đe, xử phạt.", 
+            "Giữa biện pháp phòng ngừa hành chính với biện pháp phòng ngừa hình sự."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong các hành vi bị nghiêm cấm trong Điều 6 - Luật Bảo vệ môi trường năm 2020:",
+        options: [
+            "Phá hoại, xâm chiếm trái phép di tích khảo cổ.", 
+            "Phá hoại, xâm chiếm trái phép di sản thiên nhiên.", 
+            "Phá hoại, xâm chiếm trái phép di tích lịch sử.", 
+            "Phá hoại, xâm chiếm trái phép danh lam thắng cảnh."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong các hành vi bị nghiêm cấm trong Điều 6 - Luật Bảo vệ môi trường năm 2020:",
+        options: [
+            "Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về bảo vệ môi trường.", 
+            "Lợi dụng chức vụ, quyền hạn để làm thay đổi quy chuẩn môi trường, tiêu chuẩn môi trường.", 
+            "Lợi dụng chức vụ, quyền hạn để làm biến đổi các thành phần môi trường tự nhiên và nhân tạo.", 
+            "Lợi dụng chức vụ, quyền hạn để làm xê dịch các công trình phục vụ công tác bảo vệ môi trường."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Nội dung cơ bản của biện pháp tổ chức - hành chính phòng, chống vi phạm pháp luật vệ bảo vệ môi trường là:",
+        options: [
+            "Dùng các lợi ích vật chất để kích thích chủ thể thực hiện những hoạt động có lợi cho môi trường.", 
+            "Ứng dụng các biện pháp khoa học - công nghệ vào giải quyết những vấn đề môi trường.", 
+            "Xây dựng, hoàn thiện cơ cấu tổ chức các cơ quan quản lý Nhà nước về bảo vệ môi trường.", 
+            "Giáo dục, tuyên truyền đường lối, chính sách của Đảng, pháp luật của Nhà nước nhằm nâng cao nhận thức của cộng đồng vào việc bảo vệ môi trường."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Mội trong những nội dung biện pháp kinh tế trong phòng, chống vi phạm pháp luật về bảo vệ môi trường là:",
+        options: [
+            "Giảm ưu đãi về thuế đối với chủ thể vi phạm.", 
+            "Xử lý, hạn chế lợi ích kinh tế của chủ thể vi phạm.", 
+            "Tăng áp dụng thuế đối với chủ thể vi phạm.", 
+            "Khuyến khích sử dụng khoa học công nghệ."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: " Biện pháp pháp luật trong phòng, chống vi phạm pháp luật về bảo vệ môi trường là:",
+        options: [
+            "Tăng cường đấu tranh phòng, chống tội phạm về môi trường và tăng cường pháp chế xã hội chủ nghĩa.", 
+            "Nâng cao hiệu quả, hiệu lực quản lý nhà nước về môi trường và đấu tranh phòng, chống tội phạm về môi trường.", 
+            "Xây dựng các quy phạm pháp luật và tổ chức thực hiện, áp dụng pháp luật để điều chỉnh các quan hệ xã hội liên quan đến việc bảo vệ môi trường.", 
+            "Củng cố, kiện toàn bộ máy và hoạt động của lực lượng chức năng tham gia thực hiện công tác bảo vệ môi trường."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Vai trò của Đảng Cộng sản Việt Nam trong phòng, chống vi phạm pháp luật về bảo vệ môi trường là:",
+        options: [
+            "Đảng lãnh đạo trực tiếp, nhiều mặt đối với các cơ quan trực tiếp phòng, chống tội phạm về môi trường.", 
+            "Đảng tổ chức mọi mặt các cơ quan chức năng phòng, chống tội phạm vi phạm pháp luật về môi trường.", 
+            "Đảng chỉ huy mọi mặt các cơ quan nghiệp vụ trong phòng, chống tội phạm vi phạm pháp luật về môi trường.", 
+            " Đảng kiểm tra, giám sát mọi mặt cơ quan bảo vệ pháp luật xử lý những vụ vi phạm pháp luật về môi trường."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Quốc hội và Hội đồng nhân dân các cấp có chức năng, quyền hạn, nhiệm vụ gì trong công tác phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+        options: [
+            "Lãnh đạo các cơ quan chức năng thực hiện tốt trách nhiệm, quyền hạn trong công tác bảo vệ môi trường.", 
+            "Ban hành và hoàn thiện hệ thống pháp luật,Pháp lệnh, Nghị quyết về công tác bảo vệ môi trường.", 
+            "Chỉ đạo cơ quan bảo vệ pháp luật xử lý nghiêm khắc những hành vi vi phạm pháp luật về bảo vệ môi trường.", 
+            "Giám sát hoạt động của Chính phủ và Ủy ban nhân dân các cấp phòng, chống vi phạm pháp luật về môi trường."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "“Tham gia tích cực và hưởng ứng các chương trình, hành động về bảo vệ môi trường do Nhà nước, các Bộ, ngành phát động” là trách nhiện của:",
+        options: [
+            "Sinh viên.", 
+            "Công dân.", 
+            "Nhà trường.", 
+            "Mọi người."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "“Tích cực học tập, nghiên cứu nắm vững các quy định của pháp luật về phòng, chống vi phạm pháp luật về bảo vệ môi trường” là trách nhiệm của:",
+        options: [
+            "Sinh viên.", 
+            "Công dân.", 
+            "Học sinh.", 
+            "Mọi người."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Môi trường là:",
+        options: [
+            "Hệ thống yếu tố tự nhiên.", 
+            "Hệ thống yếu tố tự nhiên và nhân tạo.", 
+            "Hệ thống yếu tố nhân tạo.", 
+            "Hệ thống các vi sinh vật bao quanh con người."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Môi trường có tác động ảnh hưởng đến:",
+        options: [
+            "Đời sống, kinh tế-xã hội và sự tồn tại và phát triển của con người.", 
+            "Đời sống con người.", 
+            "Đời sống, kinh tế-xã hội và sự tồn tại, phát triển của con người, sinh vật tự nhiên.", 
+            "Sự phát triển kinh tế - xã hội."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Môi trường tự nhiên bao gồm:",
+        options: [
+            "Tất cả các yếu tố con người, tài nguyên,vi sinh vật.", 
+            "Tất cả các yếu tố do con người tạo ra.", 
+            " Tất cả các yếu tố tự nhiên và nhân tạo.", 
+            "Tất cả các yếu tố tự nhiên trên trái đất."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Môi trường tự nhiên mang lại:",
+        options: [
+            "Không gian và điều kiện để con người sinh sống và tồn tại.", 
+            "Tài nguyên và khoáng sản.", 
+            "Điều kiện phát triển kinh tế.", 
+            "Không khí và nước."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Môi trường nhân tạo bao gồm:",
+        options: [
+            "Các yếu tố do con người tạo ra.", 
+            "Các yếu tố vật chất do con người tạo ra.", 
+            "Tất cả những vật chất phục vụ cuộc sống con người.", 
+            "Các yếu tố do con người tạo ra và tự nhiên."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Pháp luật quy định:",
+        options: [
+            "Quy định bắt buộc mà con người phải thực hiện và khi khai thác và sử dụng các yếu tố của môi trường.", 
+            "Nguyên tắc xử sự mà con người phải thực hiện và khi khai thác và sử dụng các yếu tố của môi trường.", 
+            "Quy tắc xử sự mà con người phải thực hiện và khi khai thác và sử dụng các yếu tố của môi trường.", 
+            "Chế tài thực thi mà con người phải thực hiện và khi khai thác và sử dụng các yếu tố của môi trường."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: " Môi trường vừa là điều kiện sống vừa là:",
+        options: [
+            "Nhu cầu khai thác không tái tạo.", 
+            "Đối tượng tác động hàng ngày của con người.", 
+            "Đối tượng tác động theo quy luật.", 
+            "Nguồn tài nguyên vô tận."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: " Pháp luật với tư cách là:",
+        options: [
+            "Công cụ điều tiết các hành vi của các thành viên trong xã hội.", 
+            "Công cụ chi phối các hành vi của các thành viên trong xã hội.", 
+            "Công cụ quyết định các hành vi của các thành viên trong xã hội.", 
+            " Công cụ răn đe các hành vi của các thành viên trong xã hội."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Pháp luật xây dựng hệ thống:",
+        options: [
+            "Quy chuẩn để bảo vệ môi trường.", 
+            "Tiêu chuẩn để bảo vệ môi trường.", 
+            "Các quy chuẩn môi trường, tiêu chuẩn môi trường để bảo vệ môi trường.", 
+            "Bộ quy tắc ứng xử để bảo vệ môi trường."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Các quy chuẩn môi trường và tiêu chuẩn môi trường là:",
+        options: [
+            "Hệ thống văn bản quy định xác định có vi phạm pháp luật về môi trường hay không.", 
+            "Cơ sở pháp lý xác định có vi phạm pháp luật về môi trường hay không.", 
+            "Nguyên tắc quy định xác định có vi phạm pháp luật về môi trường hay không.", 
+            "Nguyên tắc pháp lý xác định có vi phạm pháp luật về môi trường hay không."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Pháp luật quy định:",
+        options: [
+            "Chức năng, quyền hạn của các cơ quan, tổ chức và cá nhân tham gia bảo vệ môi trường.", 
+            "Chức năng, nhiệm vụ, quyền hạn của các cơ quan, tổ chức và cá nhân tham gia bảo vệ môi trường.", 
+            "Nhiệm vụ, chức năng và quyền xử phạt của các cơ quan, tổ chức và cá nhân tham gia bảo vệ môi trường.", 
+            "Quyền hạn áp dụng quy định xử phạt của các cơ quan, tổ chức và cá nhân tham gia bảo vệ môi trường."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Pháp luật có tác dụng rất lớn trong việc tạo ra: ",
+        options: [
+            "Cơ chế hoạt động hiệu quả cho các tổ chức bảo vệ môi trường.", 
+            "Cơ chế thuận lợi cho các tổ chức bảo vệ môi trường.", 
+            "Không gian hoạt động hiệu quả cho các tổ chức bảo vệ môi trường.", 
+            "Lợi ích về vật chất cho các tổ chức bảo vệ môi trường."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Trong giải quyết tranh chấp liên quan đến bảo vệ môi trường thì Pháp luật bảo vệ môi trường là:",
+        options: [
+            "Hệ thống các quy phạm pháp luật điều chỉnh hành vi.", 
+            "Hệ thống các quy phạm pháp luật điều chỉnh hành động.", 
+            "Hệ thống các quy phạm pháp luật điều chỉnh hành vi, xử sự.", 
+            "Hệ thống những quy định và chế tài xử phạt."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Pháp luật xử lý vi phạm trong lĩnh vực bảo vệ môi trường:",
+        options: [
+            "Xử lý hình sự.", 
+            "Xử lý hình sự, vi phạm hành chính và trách nhiệm dân sự.", 
+            "Xử lý vi phạm hành chính.", 
+            "Xử lý trách nhiệm dân sự."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Tội phạm về môi trường là hành vi nguy hiểm cho xã hội có:",
+        options: [
+            "Tác động tiêu cực đến các yếu tố của môi trường, tài nguyên.", 
+            "Gây tổn hại ở mức độ đáng kể đến các yếu tố của môi trường, tài nguyên.", 
+            "Tác động tiêu cực và gây tổn hại đáng kể đến các yếu tố của môi trường, tài nguyên.", 
+            "Gây tổn hại nghiêm trọng đến các yếu tố của môi trường, tài nguyên."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những nguyên nhân điều kiện khách quan dẫn đến vi phạm pháp luật về môi trường là:",
+        options: [
+            "Áp lực tăng trưởng kinh tế.", 
+            "Áp lực đảm bảo cuộc sống mưu sinh của con người.", 
+            "Nhận thức của người dân.", 
+            "Bùng nổ dân số."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những nguyên nhân điều kiện khách quan dẫn đến vi phạm pháp luật về môi trường là:",
+        options: [
+            "Phối hợp giữa các cơ quan chức năng chưa chặt chẽ.", 
+            "Công tác quản lý nhà nước về môi trường còn chồng chéo, trùng dẫm.", 
+            "Hệ thống luật pháp còn lỏng lẻo.", 
+            "Tham nhũng của cán bộ làm công tác chuyên môn."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những nguyên nhân điều kiện chủ quan dẫn đến vi phạm pháp luật về môi trường là:",
+        options: [
+            "Hệ thống pháp luật chưa đủ chặt, đủ mạnh.", 
+            "Khung hình phạt chưa mang tính răn đe mạnh.", 
+            "Các cơ quan chức năng chưa phát huy hết vai trò, trách nhiệm trong phòng chống vi phạm pháp luật về bảo vệ môi trường.", 
+            "Công tác quản lý còn chồng chéo."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những nguyên nhân điều kiện chủ quan dẫn đến vi phạm pháp luật về môi trường là:",
+        options: [
+            "Phối hợp giữa các cơ quan chức năng chưa chặt chẽ.", 
+            "Đội ngũ cán bộ chiến sĩ trực tiếp đấu tranh phòng chống vi phạm pháp luật về bảo vệ môi trường còn thiếu.", 
+            "Hệ thống luật pháp còn lỏng lẻo.", 
+            "Tham nhũng của cán bộ làm công tác chuyên môn còn xảy ra thường xuyên."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những nguyên nhân dẫn đến vi phạm pháp luật về bảo vệ môi trường của các đối tượng vi phạm:",
+        options: [
+            "Động cơ trả thù cá nhân.", 
+            "Sự quản lý lỏng lẻo của cơ quan chức năng.", 
+            "Thiếu trách nhiệm của đội ngũ cán bộ trực tiếp làm nhiệm chuyên môn.", 
+            "Thu lợi bất chính về kinh tế."
+        ],
+        correctAnswer: 3
+    },
 ];
