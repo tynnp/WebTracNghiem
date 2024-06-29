@@ -1,4 +1,7 @@
 const questions = [
+
+    // Bài 1: Phòng, chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ của các thế lực thù địch đối với cách mạng Việt Nam
+    
     {
         question: "Thực hiện thủ đoạn “Diễn biến hòa bình” trong lĩnh vực tôn giáo - dân tộc, kẻ thù triệt để lợi dụng chính sách tự do tôn giáo của Đảng ta để:",
         options: [
@@ -767,5 +770,612 @@ const questions = [
             "Gây mâu thuẫn giữa các dân tộc."
         ],
         correctAnswer: 2
+    },
+
+    // Bài 2: Một số nội dung cơ bản về dân tộc, tôn giáo, đấu tranh phòng, chống các thế lực thù địch lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam
+
+    {
+        question: "Theo quan điểm của chủ nghĩa Mác - Lênin, giải quyết vấn đề dân tộc:",
+        options: [
+            "Vừa là quan điểm vừa là phương châm của nhà nước vô sản.", 
+            "Vừa là mục tiêu vừa là động lực của cách mạng xã hội chủ nghĩa.", 
+            "Vừa là mục tiêu vừa là phương thức của nhà nước xã hội chủ nghĩa.", 
+            "Vừa là nội dung vừa là quan điểm của cách mạng xã hội chủ nghĩa."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: " Quan hệ dân tộc, sắc tộc hiện nay trên thế giới diễn ra phức tạp, nóng bỏng ở phạm vi: ",
+        options: [
+            "Các nước ASEAN và EU.", 
+            "Châu Phi và châu Mỹ Latinh.", 
+            "Châu Á và châu Âu, châu Mỹ.", 
+            "Quốc gia, khu vực và quốc tế."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Nội dung vấn đề dân tộc và giải quyết vấn đề dân tộc theo tư tưởng Hồ Chí Minh là:",
+        options: [
+            "Toàn diện, phong phú, sâu sắc, khoa học và cách mạng.", 
+            "Xây dựng quan hệ sâu sắc, tốt đẹp, phong phú, hài hòa.", 
+            "Thiết lập quan hệ với các quốc gia, dân tộc trên thế giới.", 
+            "Xây dựng tình đoàn kết, tôn trọng và giúp đỡ lẫn nhau."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những quan điểm, chính sách dân tộc của Đảng, Nhà nước ta là:",
+        options: [
+            "Chống mọi hành động áp đặt trong công tác dân tộc.", 
+            "Chống phân biệt, đối xử khác nhau giữa các dân tộc.", 
+            "Chống các biểu hiện kỳ thị, hẹp hòi, chia rẽ dân tộc.", 
+            " Chống tuyên truyền, lôi kéo kích động các dân tộc."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tăng cường xây dựng củng cố khối đại đoàn kết dân tộc, giữ vững ổn định chính trị xã hội là một trong những nội dung của:",
+        options: [
+            "Nội dung cơ bản đấu tranh phòng chống địch lợi dụng vấn đề dân tộc, TG.", 
+            "Giải pháp cơ bản đấu tranh phòng chống địch lợi dụng vấn đề dân tộc, TG.", 
+            "Nhiệm vụ đấu tranh phòng chống địch lợi dụng vấn đề dân tộc, tôn giáo.", 
+            "Vị trí quan trọng đấu tranh phòng chống địch lợi dụng vấn đề dân tộc, TG."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Theo quan điểm chủ nghĩa Mác - Lênin, thực chất của vấn đề dân tộc là:",
+        options: [
+            "Sự khác biệt về phong tục, tập quán, quyền lợi của nhau giữa các dân tộc trong một quốc gia đa dân tộc và giữa các quốc gia dân tộc với nhau trên thế giới.", 
+            "Sự va chạm, đụng độ, mâu thuẫn trong quan hệ đời sống XH giữa các dân tộc trong một QG đa dân tộc và giữa các QG dân tộc với nhau trong quan hệ quốc tế.", 
+            "Sự va chạm, mâu thuẫn lợi ích giữa các dân tộc trong quốc gia đa dân tộc và giữa các quốc gia dân tộc với nhau trong quan hệ quốc tế.", 
+            "Sự bất bình đẳng, phân biệt chủng tộc trong quá trình phát triển KT, XH giữa các dân tộc trong QG đa dân tộc và giữa các QG dân tộc với nhau trong quan hệ QT."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những lý do dẫn đến vấn đề dân tộc còn tồn tại lâu dài là do:",
+        options: [
+            "Dân số và trình độ phát triển KT – XH giữa các dân tộc không đều nhau.", 
+            "Các dân tộc chưa đồng thời đứng lên đấu tranh chống CNĐQ.", 
+            "Sự chống phá của CNĐQ đối với các dân tộc trên toàn thế giới.", 
+            "CNĐQ thực hiện chiến lược “Diễn biến hòa bình” trên thế giới."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những nội dung tư tưởng Hồ Chí Minh về vấn đề dân tộc và giải quyết vấn đề dân tộc:",
+        options: [
+            "Thiết lập và mở rộng mối quan hệ khăng khít, gắn bó với các quốc gia, dân tộc trên thế giới.", 
+            "Xây dựng quan hệ sâu sắc, tốt đẹp, phong phú, hài hòa giữa các dân tộc.", 
+            "Khắc phục tàn dư tư tưởng phân biệt, kỳ thị dân tộc, tư tưởng dân tộc lớn, dân tộc hẹp hòi.", 
+            "Xây dựng tình đoàn kết hữu nghị, bình đẳng, tôn trọng và giúp đỡ nhau cùng phát triển."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những đặc điểm của các dân tộc ở Việt Nam là các dân tộc ở nước ta có quy mô dân số và:",
+        options: [
+            "Trình độ phát triển khá đồng đều.", 
+            "Trình độ phát triển không đồng đều.", 
+            "Trình độ phát triển còn hạn chế.", 
+            "Trình độ phát triển đồng đều."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những quan điểm, chính sách dân tộc của Đảng, Nhà nước ta là:",
+        options: [
+            "Vấn đề dân tộc và đoàn kết dân tộc đi đôi với cải tạo xã hội cũ, xây dựng xã hội mới, xã hội văn minh, tốt đẹp.", 
+            "Vấn đề dân tộc và đoàn kết dân tộc có ý nghĩa sâu sắc trong sự nghiệp cách mạng Việt Nam.", 
+            "Vấn đề dân tộc và đoàn kết dân tộc gắn liền với quá trình xây dựng và phát triển của cách mạng Việt Nam.", 
+            "Vấn đề dân tộc và đoàn kết các dân tộc có vị trí chiến lược lâu dài trong sự nghiệp cách mạng Việt Nam."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những quan điểm, chính sách dân tộc của Đảng, Nhà nước ta là:",
+        options: [
+            "Thực hiện chính sách ưu tiên trong đào tạo, bồi dưỡng cán bộ, trí thức là người dân tộc thiểu số.", 
+            "Ưu tiên trong giáo dục cán bộ, nhân lực, vật lực cho các địa phương vùng đồng bào các dân tộc thiểu số.", 
+            "Tập trung phát triển nhanh về văn hóa – xã hội cho các địa phương vùng đồng bào các dân tộc thiểu số.", 
+            "Thực hiện tốt các chính sách, nhất là chính sách dân số, kế hoạch hóa gia đình cho đồng bào các dân tộc thiểu số."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Lĩnh vực trọng yếu mà các thế lực thù địch lợi dụng, lấy đó làm ngòi nổ để chống phá cách mạng Việt Nam là:",
+        options: [
+            "Vấn đề diễn biến hòa bình.", 
+            "Vấn đề dân tộc, tôn giáo.", 
+            "Vấn đề bạo loạn lật đổ.", 
+            "Vấn đề dân chủ, nhân quyền."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Để vô hiệu hóa sự lợi dụng vấn đề dân tộc, tôn giáo ở Việt Nam của các thế lực thù địch, giải pháp cơ bản nhất là thực hiện tốt:",
+        options: [
+            "Chính sách vận động quần chúng.", 
+            "Chính sách xóa đói, giảm nghèo.", 
+            "Chính sách đại đoàn kết dân tộc.", 
+            "Chính sách dân tộc, tôn giáo."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Lợi dụng những khó khăn của đồng bào dân tộc ít người, những khuyết điểm trong thực hiện chính sách của một bộ phận cán bộ để kích động đòi ly khai, tự quyết dân tộc là một trong những nội dung của thủ đoạn “Diễn biến hòa bình” trong lĩnh vực:",
+        options: [
+            "Tư tưởng, văn hóa.", 
+            "Dân tộc, tôn giáo.", 
+            "An ninh lãnh thổ.", 
+            "An ninh ninh biên giới."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Lòng biết ơn, sự tôn kính đối với những người có công khai phá tự nhiên và chống lại các thế lực áp bức trong tình cảm tâm lý con người là nguồn gốc:",
+        options: [
+            "Tâm lý của tôn giáo.", 
+            "Cảm xúc của tôn giáo.", 
+            "Nhận thức của tôn giáo.", 
+            "Xã hội của tôn giáo."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Xuất phát từ lợi ích, những lực lượng xã hội khác nhau lợi dụng tôn giáo để thực hiện mục tiêu chính trị của mình, đó là:",
+        options: [
+            "Tính lịch sử của tôn giáo.", 
+            "Tính xã hội của tôn giáo.", 
+            "Tính kinh tế của tôn giáo.", 
+            "Tính chính trị của tôn giáo."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Ngày nay thế giới đã phát triển, đời sống ngày càng được nâng cao nhưng con người vẫn tin vào tôn giáo, bởi vì:",
+        options: [
+            "Trình độ dân trí trên thế giới phát triển chưa đồng đều.", 
+            "Con người chưa tin vào hiện thực khách quan.", 
+            "Con người vẫn chưa hoàn toàn làm chủ tự nhiên và xã hội.", 
+            "Thế giới vẫn còn nhiều bất công, thiên tai, chiến tranh."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tôn giáo có tính quần chúng, bởi vì:",
+        options: [
+            "Tôn giáo phản ánh sự khát vọng của quần chúng.", 
+            "Tôn giáo gắn liền với hoạt động xã hội của quần chúng.", 
+            "Quần chúng lấy tôn giáo làm mục đích cho tinh thần.", 
+            "Quần chúng dựa vào tâm linh trong mọi hoạt động."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Tôn giáo có nguồn gốc từ các yếu tố:",
+        options: [
+            "Kinh tế - xã hội, ý thức và hành vi.", 
+            "Kinh tế - xã hội, nhận thức và tâm lý.", 
+            "Chính trị xã hội, tinh thần và tâm lý.", 
+            "Chính trị-xã hội, kinh tế và tinh thần."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Vấn đề dân tộc, sắc tộc đã gây nên những hậu quả nặng nề về:",
+        options: [
+            "Chính trị tinh thần, văn hóa, xã hội và có thể gây ra chiến tranh.", 
+            "Kinh tế, chính trị, văn hóa, xã hội, môi trường cho các quốc gia.", 
+            "Mọi hoạt động của đời sống xã hội của các quốc gia trên thế giới.", 
+            "Đời sống vật chất, tinh thần của nhân dân trên mọi quốc gia."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Các dân tộc thiểu số ở Việt Nam cư trú phân tán và xen kẽ trên địa bàn rộng lớn, chủ yếu là ở:",
+        options: [
+            "Biên giới, vùng cao, hải đảo.", 
+            "Rừng núi, trung du, biển đảo.", 
+            "Miền núi, biên giới, hải đảo.", 
+            "Vùng sâu, vùng xa, biển đảo."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tăng cường công tác đào tạo, bồi dưỡng cán bộ làm công tác tôn giáo, là một trong những nội dung:",
+        options: [
+            "Chính sách tôn giáo của Đảng, Nhà nước ta.", 
+            "Quan điểm tôn giáo của chủ nghĩa Mác - Lê nin.", 
+            "Quan điểm tôn giáo của Đảng, Nhà nước ta.", 
+            "Chính sách tôn giáo của Chủ nghĩa Mác - Lê nin."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Tôn giáo đã trở thành nhu cầu tinh thần, đức tin, lối sống của một bộ phận không nhỏ đã thể hiện rõ:",
+        options: [
+            "Tính phổ biến của tôn giáo.", 
+            "Tính quần chúng của tôn giáo.", 
+            "Tính xã hội của tôn giáo.", 
+            "Tính rộng rãi của tôn giáo."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: " Tôn giáo ra đời, tồn tại, biến đổi phản ánh và phụ thuộc vào sự vận động, phát triển của tồn tại xã hội, nhưng nó sẽ mất đi khi con người làm chủ hoàn toàn tự nhiên, xã hội và tư duy, điều đó khẳng định:",
+        options: [
+            "Tính xã hội của tôn giáo.", 
+            "Tính phức tạp của tôn giáo.", 
+            "Tính phát triển của tôn giáo.", 
+            "Tính lịch sử của tôn giáo."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Việc mở rộng giao lưu giữa các tổ chức tôn giáo Việt Nam với các tổ chức tôn giáo thế giới đã giúp cho việc tăng cường trao đổi thông tin, góp phần xây dựng tinh thần hợp tác hữu nghị, hiểu biết lẫn nhau vì:",
+        options: [
+            "Lợi ích phát triển chung của các tôn giáo.", 
+            "Phù hợp với phát triển tôn giáo thế giới.", 
+            "Lợi ích của các giáo hội và đất nước.", 
+            "Sự phát triển toàn diện của đất nước."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tôn trọng tự do tín ngưỡng là phải không ngừng tạo điều kiện cho quần chúng phát triển, tiến bộ về mọi mặt, bài trừ mê tín dị đoan, bảo đảm cho:",
+        options: [
+            "Tôn giáo đoàn kết, phát triển theo kịp thế giới.", 
+            "Đồng bào tôn giáo tự do, bình đẳng trước pháp luật.", 
+            "Giáo sỹ, tín dồ tôn giáo ngày càng phát triển bền vững.", 
+            "Tín dồ, chức sắc tôn giáo hoạt động theo đúng pháp luật."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Các thế lực thù địch vẫn luôn lợi dụng vấn đề tôn giáo, dân tộc để chống phá cách mạng Việt Nam, chúng gắn vấn đề “dân chủ”, “nhân quyền” với:",
+        options: [
+            " “Tự do”, “dân chủ” để kích động biểu tình, bạo loạn.", 
+            "“Tự do tôn giáo” để chia rẽ tôn giáo, dân tộc.", 
+            "“Dân chủ tôn giáo” để chia rẽ dân tộc, tôn giáo.", 
+            "Chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Nội dung cốt lõi của công tác tôn giáo ở Việt Nam là vận động quần chúng:",
+        options: [
+            "Sống “tốt đời, đẹp đạo”.", 
+            "“Kính chúa yêu nước”.", 
+            "“Phúc âm trong lòng dân tộc”.", 
+            "Phải “từ bi, bác ái”."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những giải pháp cơ bản để vô hiệu hóa sự lợi dụng vấn đề dân tộc, tôn giáo ở Việt Nam của các thế lực thù địch là:",
+        options: [
+            "Tăng cường quản lý trật tự trị an, thực hiện tốt chính sách đền ơn đáp nghĩa, phát triển kinh tế - xã hội ở địa phương.", 
+            "Thực hiện tốt chính sách đại đoàn kết dân tộc, bảo vệ, đấu tranh vạch trần các phần tử ly khai, phản động.", 
+            "Đẩy mạnh thực hiện chính sách xóa đói giảm nghèo, nêu cao cảnh giác không làm theo kẻ tuyên truyền chống đối.", 
+            "Tăng cường xây dựng củng cố khối đại đoàn kết toàn dân tộc, giữ vững ổn định chính trị - xã hội."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những giải pháp cơ bản đấu tranh phòng chống các thế lực thù địch lợi dụng vấn đề dân tộc, tôn giáo là:",
+        options: [
+            "Tạo điều kiện cho đồng bào các dân tộc, tôn giáo thực hiện tốt nghĩa vụ đối với đất nước.", 
+            "Chăm lo nâng cao đời sống vật chất, tinh thần của đồng bào các dân tộc, các tôn giáo.", 
+            "Chú trọng công tác thuyết phục đối với các già làng, trưởng bản, chức sắc tôn giáo.", 
+            "Kịp thời phát hiện, ngăn chặn đối phó có hiệu quả đối với những lực lượng phản động."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những giải pháp cơ bản đấu tranh phòng chống các thế lực thù địch lợi dụng vấn đề dân tộc, tôn giáo là:",
+        options: [
+            "Kịp thời phát hiện, ngăn chặn đấu tranh có hiệu quả đối với những hành vi chống đối.", 
+            "Chăm lo nâng cao đời sống tinh thần và đoàn kết của đồng bào các dân tộc miền núi.", 
+            "Chú trọng công tác tuyên truyền thông qua các già làng, trưởng bản, chức sắc tôn giáo.", 
+            "Ra sức tuyên truyền, quán triệt quan điểm, chính sách dân tộc, tôn giáo của Đảng, Nhà nước."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Để đấu tranh phòng chống các thế lực thù địch lợi dụng vấn đề dân tộc, tôn giáo, chúng ta phải phát huy vai trò của:",
+        options: [
+            "Đồng bào các dân tộc, tôn giáo.", 
+            "Cả hệ thống chính trị.", 
+            "Các tổ chức quần chúng.", 
+            "Các già làng, chức sắc tôn giáo."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Để thực hiện thủ đoạn lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam, các thế lực thù địch thường sử dụng chiêu bài:",
+        options: [
+            "“truyền đạo”, “dân chủ”, “tự do”.", 
+            "“dân chủ”, “tuyên truyền”, “tự do”.", 
+            "“nhân quyền”, “dân chủ”, “tự do”.", 
+            "“nhân quyền”, “kích động”, “dân chủ."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Ở Việt Nam vị vua được tôn vinh Phật hoàng là",
+        options: [
+            "Trần Nhân Tông.", 
+            "Lý Thái Tông.", 
+            "Trần Thánh Tông.", 
+            "Lý Nhân Tông."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Vấn đề cốt lõi xuyên suốt trong công tác dân tộc ở nước ta hiện nay là:",
+        options: [
+            "Nâng cao đời sống vật chất, tinh thần, điều kiện sinh sống giữa các dân tộc.", 
+            "Khắc phục sự cách biệt về trình độ phát triển kinh tế - xã hội giữa các dân tộc.", 
+            "Giải quyết các tệ nạn xã hội, ưu tiên phát triển toàn diện các DT ít người.", 
+            "Khắc phục sự chênh lệch giàu, nghèo, sự phân hóa trong xã hội hiện nay."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Tôn giáo là một cộng đồng xã hội với các yếu tố:",
+        options: [
+            "Hệ thống giáo khoa tôn giáo, nghi thức tôn giáo, đội ngũ giáo sỹ, tín đồ đông đảo và cơ sở vật chất phục vụ cho hoạt động tôn giáo.", 
+            "Hệ thống giáo khoa tôn giáo, nghi thức tôn giáo, tổ chức tôn giáo với đội ngũ giáo sỹ, tín đồ, cơ sở vật chất phục vụ cho hoạt động tôn giáo.", 
+            "Hệ thống giáo lý tôn giáo, nghi thức tôn giáo, tổ chức tôn giáo với các thành viên và cơ sở vật chất phục vụ cho hoạt động tôn giáo.", 
+            "Hệ thống giáo lý tôn giáo, nghi lễ tôn giáo, tổ chức tôn giáo với đội ngũ giáo sỹ, tín đồ, cơ sở vật chất phục vụ cho hoạt động tôn giáo."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Theo quan điểm của chủ nghĩa Mác - Lênin, vấn đề dân tộc là:",
+        options: [
+            "Vấn đề quan trọng của cách mạng XHCN.", 
+            "Vấn đề chiến lược của cách mạng XHCN.", 
+            "Vấn đề cần thiết của cách mạng XHCN.", 
+            " Vấn đề sách lược của cách mạng XHCN."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Việt Nam là một quốc gia dân tộc thống nhất gồm:",
+        options: [
+            "56 dân tộc cùng sinh sống.", 
+            "52 dân tộc cùng sinh sống.", 
+            "57 dân tộc cùng sinh sống.", 
+            "54 dân tộc cùng sinh sống."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Tính chất của Tôn giáo là:",
+        options: [
+            "Tính lịch sử, tính quần chúng, tính chính trị.", 
+            "Tính kế thừa, tính phát triển, tính chính trị.", 
+            "Tính chính trị, tính chọn lọc, tính phát triển.", 
+            "Tính kế thừa, tính quần chúng, tính thực tiễn."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những nội dung giải quyết vấn đề dân tộc theo quan điểm của Lênin:",
+        options: [
+            "Các dân tộc phải ly khai, tự trị.", 
+            "Các dân tộc phải phân chia đẳng cấp.", 
+            "Các dân tộc hoàn toàn bình đẳng.", 
+            "Các dân tộc phải có nền văn hóa chung."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những đặc điểm của các dân tộc ở Việt Nam là:",
+        options: [
+            "Các dân tộc Việt namđều có chung phong tục,tập quán.", 
+            "Mỗi dân tộc ở Việt Nam đều có sắc thái văn hóa riêng.", 
+            "Mỗi dân tộc Việt nam đều có nền văn hóa riêng.", 
+            "Các dân tộc Việt nam đều có các tôn giáo riêng."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tôn giáo là một hình thái ý thức xã hội, phản ánh hiện thực khách quan theo:",
+        options: [
+            "Trào lưu của xã hội phùhợp với tư tưởng, tình cảm,niềm tin của con người.", 
+            "Quy luật phát triển của đời sống xã hội, được mọi người tin tưởng tham gia.", 
+            "Quan niệm hoang đường,ảo tưởng, phù hợp với tâm lý, hành vi của con người.", 
+            "Chuẩn mực đạo đức, truyền thống phù hợp với tâm lý, của mọi người."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những nội dung về vấn đề dân tộc theo quan điểm của chủ nghĩa Mác - Lênin, là:",
+        options: [
+            "Gắn kết chặt chẽ với vấn đề giai cấp.", 
+            "Gắn kết chặt chẽ với dân tộc, dân chủ.", 
+            "Gắn kết chặt chẽ với độc lập dân tộc.", 
+            "Gắn kết chặt chẽ với bản chất quốc tế."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những đặc điểm của các dân tộc thiểu số ở Việt Nam là:",
+        options: [
+            "Cư trú du canh và du cư.", 
+            "Cư trú tập trung.", 
+            "Cư trú phân tán và xen kẽ.", 
+            "Cư trú ở rừng núi."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những nội dung giải quyết vấn đề dân tộc theo quan điểm của Lênin là:",
+        options: [
+            "Các dân tộc được tự chủ, tự trị.", 
+            "Các dân tộc được quyền tự quyết.", 
+            "Các dân tộc phải phân chia đẳng cấp.", 
+            "Các dân tộc phải có văn hóa chung."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Quyền tự do tín ngưỡng tôn giáo, được hiểu là:",
+        options: [
+            "Mọi người đều được tự do cầu trời, cầu tự cho mình.", 
+            "Mọi người đều được tự do thờ cúng hoặc không thờ cúng.", 
+            "Mọi người đều được tự do tin hay không tin ở thần linh.", 
+            "Mọi người đều được tự do theo hoặc không theo tôn giáo."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Việc phân biệt rõ hai mặt chính trị và tư tưởng trong giải quyết vấn đề tôn giáo nhằm:",
+        options: [
+            "Xây dựng khối đại đoàn kết toàn dân tộc.", 
+            "Thống nhất nhận thức cho mọi người.", 
+            "Thống nhất tư tưởng trong các tôn giáo.", 
+            "Xây dựng tinh thần đoàn kết tôn giáo."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Tôn giáo xuất hiện đầu tiên ở Việt Nam là:",
+        options: [
+            "Cao Đài.", 
+            "Phật Giáo.", 
+            "Công Giáo.", 
+            "Tin Lành."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Tôn giáo có nguồn gốc từ các yếu tố:",
+        options: [
+            "Chính trị - quân sự, tâm lý và nhận thức.", 
+            "Chính trị - xã hội, tâm lý và ý thức.", 
+            "Kinh tế - xã hội, ý thức và giáo lý.", 
+            "Kinh tế - xã hội, nhận thức và tâm lý."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Khái niệm dân tộc được hiểu theo nghĩa của một quốc gia là các thành viên cùng dân tộc sử dụng:",
+        options: [
+            "Nhiều ngôn ngữ để cùng giao tiếp.", 
+            "Một ngôn ngữ chung để giao tiếp.", 
+            "Một tiếng nói chung thống nhất.", 
+            "Chung một môi trường ngôn ngữ."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Đặc trưng cơ bản của một cộng đồng quốc gia dân tộc là:",
+        options: [
+            "Được thiết lập trên một lãnh thổ chung.", 
+            "Dựa trên nguồn gốc sinh ra từ lâu đời.", 
+            "Được xác định chung huyết thống.", 
+            "Dựa trên các sắc tộc cùng màu da."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một dân tộc trong một quốc gia đa dân tộc có thể",
+        options: [
+            "Chỉ sinh sống ở những vùng núi cao.", 
+            "Chỉ sinh sống ở một quốc gia dân tộc.", 
+            "Sinh sống ở nhiều vùng trên thế giới.", 
+            "Sinh sống ở nhiều quốc gia dân tộc."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Theo quan điểm của chủ nghĩa Mác - Lênin, giải quyết vấn đề tôn giáo trong cách mạng xã hội chủ nghĩa là phải quán triệt:",
+        options: [
+            "Quan điểm tôn trọng quần chúng.", 
+            "Quan điểm tôn trọng luật pháp.", 
+            "Quan điểm lịch sử cụ thể.", 
+            "Quan điểm tôn trọng giáo lý."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Một trong những đặc điểm của các dân tộc ở Việt Nam là:",
+        options: [
+            "Có truyền thống đoàn kết gắn bó xây dựng quốc gia dân tộc thống nhất.", 
+            "Có truyền thống yêu nước, thương nòi kế tiếp đời này qua đời khác.", 
+            "Có tinh thần chịu đựng gian khổ, khó khăn, không sợ hy sinh, vất vả.", 
+            "Có tinh thần độc lập tự chủ, chịu thương, chịu khó làm ăn sinh sống."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Các Tôn giáo lớn ở nước ta hiện nay là:",
+        options: [
+            "Công giáo, Phật giáo, Tin Lành, Hòa Hảo, Cơ Đốc giáo, Chính thống giáo.", 
+            "Phật giáo, Công giáo, Tin Lành, Hồi Giáo, Cao Đài, Hòa Hảo.", 
+            "Phật giáo, Công giáo, Tin Lành, Cao Đài, Hòa Hảo, Anh giáo.", 
+            "Phật giáo, Công giáo, Tin Lành, Ki Tô giáo, Ấn Độ giáo, Cơ Đốc giáo."
+        ],
+        correctAnswer: 1
     },
 ];
