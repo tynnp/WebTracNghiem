@@ -22,11 +22,16 @@ p {
     margin: 10px auto 30px;
 }
 
+img {
+    transform: scaleX(-1);
+}
+
 #right {
     display: none;
     position: fixed;
-    top: 50px; 
-    right: 60px; 
+    top: 63px; 
+    right: 12px; 
+    margin: auto;
     width: 430px; 
     padding: 10px; 
     background-color: #e9fffa; 
