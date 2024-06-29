@@ -1,0 +1,133 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 0px 1px 2px #14eefd;
+    color: #1900ff;
+    margin-top: 30px;
+    margin: 30px auto 5px; 
+}
+
+p {
+    text-align: center;
+    text-shadow: 0px 0px 1px rgba(153, 153, 153, 0.678);
+    font-size: 17px;
+    font-style: italic;
+    color: #000000;
+    margin: 10px auto 30px;
+}
+
+#right {
+    display: none;
+    position: fixed;
+    top: 50px; 
+    right: 60px; 
+    width: 430px; 
+    padding: 10px; 
+    background-color: #e9fffa; 
+    border-radius: 10px;
+    border: 2px solid #01a1ac3d;
+}
+
+#right.active {
+    display: block;
+}
+
+#right-toggle {
+    top: 10px;
+    right: 10px;
+    position: fixed;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+#question-nav {
+    text-align: center;
+}
+
+#question-nav div {
+    display: inline-block;
+    width: 12%; 
+    text-align: center; 
+    margin: 5px; 
+    background-color: #ffffff; 
+    border-radius: 5px;
+}
+
+div button {
+    display: block;
+    padding: 10px 50px;
+    font-size: 16px;
+    text-shadow: 0px 0px 1px #a9f5ff;
+    cursor: pointer;
+    margin: 10px auto 0;
+    background-color: #ffffff;
+    color: #028a83;
+    border: 2px solid #03b4ab;
+    border-radius: 60px;
+    transition: all 0.2s ease-in-out;
+}
+
+.question {
+    margin: 10px 20px;
+    padding: 5px;
+    border: 2px solid rgba(116, 114, 255, 0.26);
+    border-radius: 5px;
+    background-color: #e0f4ff88;
+}
+
+.question h3 {
+    font-size: 18px;
+    text-align: justify;
+    margin: 5px 5px;
+}
+
+.options label {
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    text-align: justify;
+    font-size: 17px;
+}
+
+.question-link {
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    border: 1px solid #0099ff;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+
+div button:hover {
+    color: white;
+    background-color: #03b4ab;
+    text-shadow: 0px 0px 1px white;
+}
+
+#question-nav div:hover {
+    color: white;
+    background-color: #0099ff;
+    text-shadow: 0px 0px 1px white;
+}
+
+.correct {
+    background-color: #a0ffa0; 
+}
+
+.incorrect {
+    background-color: #ffb3b3; 
+}
+
+#question-nav div.correct {
+    background-color: #a0ffa0; 
+}
+
+#question-nav div.incorrect {
+    background-color: #ffb3b3; 
+}

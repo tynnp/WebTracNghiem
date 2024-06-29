@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="tynnp">
+    <title>Web Trắc Nghiệm - tynnp</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="website icon" type="png" href="assets/images/question-icon.png">
+</head>
+
+<body>
+    <h1>Trắc nghiệm học phần MILI2702</h1>
+    <p>
+        Mỗi lần refesh trang web bạn sẽ có 20 câu hỏi ngẫu nhiên, hãy cố gắng hoàn thành thật tốt nhé!
+    </p>
+
+    <div id="quiz-container"></div>
+
+    <div id="right">
+        <div id="question-nav"></div>
+        <button id="toggle-right" onclick="submitQuiz()">Nộp bài</button>
+    </div>
+
+    <script src="assets/questions/MILI2702.js"></script>
+    <script src="script.js"></script>
+    <script>
+        if (window.innerWidth <= 768 && window.innerHeight <= 1024) 
+            alert("Có vẻ như bạn đang sử dụng điện thoại!? Vì mình lười thiết kế hiển thị cho điện thoại quá nên bạn vui lòng chuyển sang thiết bị ipad hoặc máy tính để có trải nghiệm tốt hơn nhé. Xin cảm ơn!");
+    </script>
+</body>
+
+</html>
