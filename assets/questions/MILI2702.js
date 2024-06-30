@@ -2592,4 +2592,765 @@ const questions = [
         ],
         correctAnswer: 1
     },
+
+    // Bài 5: Phòng, chống một số loại tội phạm xâm phạm danh dự, nhân phẩm của người khác
+
+    {
+        question: "Bộ Luật hình sự hiện hành của nước Cộng hòa XHCN Việt Nam là:",
+        options: [
+            "Bộ Luật hình sự năm 2015,sửa đổi, bổ sung năm 2016.", 
+            "Bộ Luật hình sự năm 2015, sửa đổi, bổ sung năm 2017.", 
+            "Bộ Luật hình sự năm 2015, sửa đổi, bổ sung năm 2018.", 
+            "Bộ Luật hình sự năm 2015,sửa đổi, bổ sung năm 2019."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Bộ Luật Hình sự quy định về:",
+        options: [
+            "Nhà nước và tội phạm.", 
+            "Cơ quan chức năng và tội phạm.", 
+            "Pháp luật hình sự và tội phạm.", 
+            "Tội phạm và hình phạt."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Bộ Luật hình sự bao gồm hệ thống quy phạm pháp luật điều chỉnh các quan hệ xã hội liên quan đến:",
+        options: [
+            "Nhà nước và người phạm tội.", 
+            "Nhà nước, Viện kiểm sát và người phạm tội.", 
+            "Nhà nước, Tòa án và người phạm tội.", 
+            "Nhà nước, Công an và người phạm tội."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Nội dung nào thể hiện vai trò của Bộ Luật hình sự?",
+        options: [
+            "Bảo vệ các quan hệ xã hội liên quan đến Nhà nước và người phạm tội.", 
+            "Bảo vệ quyền con người, quyền công dân.", 
+            "Bảo vệ các quan hệ xã hội được các luật khác thiết lập.", 
+            "Bảo vệ lợi ích của Nhà nước, tổ chức, bảo vệ trật tự pháp luật."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Nội dung nào thể hiện nhiệm vụ của Bộ Luật hình sự:",
+        options: [
+            "Do cơ quan nhà nước có thẩm quyền ban hành quy định tội phạm và hình phạt.", 
+            "Giáo dục mọi người ý thức tuân theo pháp luật và phòng, chống tội phạm.", 
+            "Bảo vệ các quan hệ xã hội được các luật khác thiết lập.", 
+            "Công cụ sắc bén, để đấu tranh phòng, chống tội phạm."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "“Bộ Luật hình sự là công cụ sắc bén, hữu hiệu để đấu tranh phòng, chống tội phạm” là:",
+        options: [
+            "Đặc điểm của BLHS.", 
+            "Đặc trưng của BLHS.", 
+            "Vai trò của BLHS.", 
+            "Nhiệm vụ của BLHS."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Các tội xâm phạm nhân phẩm, danh dự con người được quy định trong:",
+        options: [
+            "Chương XIV - Bộ Luật hình sự hiện hành.", 
+            "Chương XV - Bộ Luật hình sự hiện hành.", 
+            "Chương XVI - Bộ Luật hình sự hiện hành.", 
+            "Chương XVII - Bộ Luật hình sự hiện hành."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Nhân phẩm, danh dự của con người là những yêu tố về tinh thần, bao gồm:",
+        options: [
+            "Những yếu tố gắn liền với quyền nhân thân được pháp luật bảo vệ.", 
+            "Tổng hợp những phẩm chất mang tính đặc trưng của mỗi cá nhân.", 
+            "Phẩm giá, giá trị, sự tôn trọng, tình cảm yêu mến của những người xung quanh, của xã hội đối với người đó.", 
+            "Dư luận xã hội, giá trị tinh thần, đạo đức tốt đẹp của xã hội giành cho người đó."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Hành vi xâm phạm nhân phẩm, danh dự của con người là:",
+        options: [
+            "Xâm phạm quyền được tôn trọng và bảo vệ về NP, DD người khác.", 
+            "Làm cho người đó bị xúc phạm, tổn thương về tinh thần và xấu hổ.", 
+            "Xâm phạm về nhân phẩm, danh dự được pháp luật bảo vệ.", 
+            "Hành vi nguy hiểm cho xã hội được quy định trong BLHS năm 2017."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "“Các tội xâm phạm nhân phẩm, danh dự của con người là những hành vi nguy hiểm cho xã hội” là",
+        options: [
+            "Nội dung của tội xâm phạm nhân phẩm, danh dự.", 
+            "Tính chất của tội xâm phạm nhân phẩm, danh dự.", 
+            "Khái niệm của tội xâm phạm nhân phẩm, danh dự.", 
+            "Đặc điểm của tội xâm phạm nhân phẩm, danh dự."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Các tội xâm phạm nhân phẩm, danh dự của con người được quy định trong:",
+        options: [
+            "Bộ Luật hình sự.", 
+            "Bộ Luật tố tụng hình sự.", 
+            "Bộ Luật dân sự.", 
+            "Bộ Luật tố tụng dân sự."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "“Các tội xâm phạm nhân phẩm, danh dự của con người do người có năng lực trách nhiệm hình sự và đủ tuổi chịu trách nhiệm hình sự thực hiện” là",
+        options: [
+            "Là người có năng lực trách nhiệm hình sự và từ đủ 16 tuổi trở lên.", 
+            "Là người có năng lực trách nhiệm hình sự và từ đủ 14 tuổi trở lên.", 
+            "Là người có năng lực trách nhiệm hình sự và từ đủ 18 tuổi trở lên.", 
+            "Là người có năng lực trách nhiệm hình sự và từ đủ 20 tuổi trở lên."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Các tội xâm phạm nhân phẩm, danh dự của con người do người có năng lực trách nhiệm hình sự và đủ tuổi chịu trách nhiệm hình sự thực hiện là:",
+        options: [
+            "Tính chất.", 
+            "Đặc trưng.", 
+            "Nhiệm vụ.", 
+            "Đặc điểm."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Người nào xâm phạm nhân phẩm, danh dự của người khác phải chịu:",
+        options: [
+            "Trách nhiệm tố tụng hình sự.", 
+            "Trách nhiệm hình sự.", 
+            "Trách nhiệm tố tụng dân sự.", 
+            "Trách nhiệm dân sự."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Khách quan của tội phạm xâm phạm nhân phẩm, danh dự của con người là:",
+        options: [
+            "Cách xử sự nguy hiểm của chủ thể.", 
+            "Lỗi của hành vi nguy hiểm.", 
+            "Tác hại của hành vi nguy hiểm.", 
+            "Hậu quả của hành vi nguy hiểm."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Chủ quan của tội phạm xâm phạm nhân phẩm, danh dự của con người là:",
+        options: [
+            "Lỗi.", 
+            "Mục đích.", 
+            "Động cơ.", 
+            "Lỗi, động cơ, mục đích của người phạm tội."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Tội xâm phạm tình dục là:",
+        options: [
+            "Hành động xâm phạm thể xác của người khác để thỏa mãn nhu cầu sinh lý.", 
+            "Hành động dùng vũ lực để ép buộc người khác quan hệ tình dục.", 
+            "Hành vi nguy hiểm cho xã hội được quy định trong Bộ Luật hình sự.", 
+            "Do người có năng lực trách nhiệm hình sự thực hiện một cách cố ý hoặc vô ý."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Bộ Luật hình sự hiện hành quy định về tội hiếp dâm là:",
+        options: [
+            "Dùng vũ lực, đe dọa dùng vũ lực để thực hiện hành vi quan hệ tình dục.", 
+            "Dụ giỗ, lường gạt người khác thực hiện hành vi quan hệ tình dục.", 
+            "Ép buộc nạn nhân quan hệ tình dục ngoài ý muốn.", 
+            "Thực hiện hành vi giao cấu nhưng không được nạn nhân cho phép."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Bộ Luật hình sự quy định về tội hiếp dâm với mức án cao nhất là:",
+        options: [
+            "Tử hình.", 
+            "Chung thân.", 
+            "20 năm.", 
+            "15 năm."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phạm tội hiếp dâm trong các trường hợp nào sau đây, thì bị phạt tù từ 07 năm đến 15 năm:",
+        options: [
+            "Gây thương tích, gây tổn hại cho sức khỏe 61% trở lên.", 
+            "Gây thương tích, gây tổn hại cho sức khỏe cơ thể từ 31% đến 60%.", 
+            "Dùng vũ lực hoặc đe dọa dùng vũ lực để thực hiện hành vi quan hệ tình dục.", 
+            "Phạm tội đối với người từ đủ 16 tuổi đến dưới 18 tuổi."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phạm tội hiếp dâm trong các trường hợp nào sau đây, thì bị phạt tù từ 12 năm đến 20 năm hoặc từ chung thân:",
+        options: [
+            "Nhiều người hiếp một người.", 
+            "Có tính chất loạn luân.", 
+            "Biết mình bị nhiễm HIV mà vẫn phạm tội.", 
+            "Làm nạn nhân có thai."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Phạm tội mua bán người trong các trường hợp nào sau đây, thì bị phạt tù từ 05 năm đến 10 năm:",
+        options: [
+            "Chuyển giao hoặc tiếp nhận người để giao, nhận tiền, tài sản hoặc lợi ích vật chất khác.", 
+            "Gây thương tích, gây tổn hại cho sức khỏe cơ thể dưới 31%.", 
+            "Gây thương tích, gây tổn hại cho sức khỏe cơ thể từ 31% đến 60%.", 
+            "Gây thương tích, gây tổn hại cho sức khỏe cơ thể 61% trở lên."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Phạm tội mua bán người trong các trường hợp nào sau đây thì bị phạt tù từ 08 năm đến 15 năm?",
+        options: [
+            "Có tính chất chuyên nghiệp.", 
+            "Vì động cơ đê hèn.", 
+            "Làm nạn nhân chết hoặc tự sát.", 
+            "Đã lấy bộ phận cơ thể của nạn nhân."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phạm tội mua bán người trong các trường hợp nào sau đây thì bị phạt từ từ 12 năm đến 20 năm?",
+        options: [
+            "Có tổ chức.", 
+            "Phạm tội 02 lần trở lên.", 
+            "Vì động cơ đê hèn.", 
+            "Có tính chất chuyên nghiệp."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Phạm tội mua bán người có thể bị phạt tiền:",
+        options: [
+            "Từ 20.000.000 đồng đến 40.000.000 đồng.", 
+            "Từ 20.000.000 đồng đến 60.000.000 đồng.", 
+            "Từ 20.000.000 đồng đến 100.000.000 đồng.", 
+            "Từ 20.000.000 đồng đến 80.000.000 đồng."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tội làm nhục người khác là:",
+        options: [
+            "Lăng mạ, sỉ nhục, chửi bới,... làm họ bị xúc phạm về nhân phẩm, danh dự.", 
+            "Có hành vi làm cho người khác bị mất nhân phẩm, danh dự trước tập thể.", 
+            "Hành vi xúc phạm về thể xác ảnh hưởng đến uy tín, danh dự của họ trước tập thể.", 
+            "Hành vi xâm phạm đến quyền được bảo hộ về NP, DD của người khác."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Phạm tội làm nhục người khác, có thể bị phạt tiền:",
+        options: [
+            "Từ 10.000.000 đồng đến 40.000.000 đồng.", 
+            "Từ 10.000.000 đồng đến 30.000.000 đồng.", 
+            "Từ 10.000.000 đồng đến 50.000.000 đồng.", 
+            "Từ 10.000.000 đồng đến 60.000.000 đồng."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phạm tội làm nhục người khác trong các trường hợp nào sau đây thì bị phạt tù từ 02 năm đến 05 năm?",
+        options: [
+            "Gây rối loạn tâm thần, tỷ lệ tổn thương cơ thể 61% trở lên.", 
+            "Gây rối loạn tâm thần, tỷ lệ tổn thương cơ thể từ 31% đến 60%.", 
+            "Đối với người dạy dỗ, nuôi dưỡng, chăm sóc, chữa bệnh cho mình.", 
+            "Sử dụng mạng máy tính hoặc mạng viễn thông, phương tiện điện tử để phạm tội."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Tội lây truyền HIV cho người khác là:",
+        options: [
+            "Không biết mình bị nhiễm HIV mà vô ý lây truyền HIV cho người khác.", 
+            "Biết mình nhiễm HIV nhưng vô ý lây truyền HIV cho người khác.", 
+            "Biết mình bị nhiễm HIV nhưng cố ý mang bầu và sinh con (đối với phụ nữ).", 
+            "Biết mình bị nhiễm HIV mà cố ý lây truyền HIV cho người khác."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Người phạm tội có ý lây truyền HIV cho người khác có thể bị phạt tù:",
+        options: [
+            "03 năm đến 05 năm.", 
+            "Từ 01 năm đến 03 năm.", 
+            "Từ 05 năm đến 09 năm.", 
+            "Từ 09 năm đến 12 năm."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Nội dung nào thể hiện biện pháp kinh tế-xã hội phòng, chống các tội xâm phạm nhân phẩm, danh dự của con người?",
+        options: [
+            "Quan tâm và có chiến lược giáo dục con cháu hiệu quả.", 
+            "Đổi mới nội dung, hình thức, biện pháp tuyên truyền.", 
+            "Tăng cường các biện pháp liên quan đến phát hiện và xử lý.", 
+            "Huy động các nguồn lực xã hội để đẩy mạnh đầu tư."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "“Tăng cường mở các lớp đào tạo nghề và giải quyết việc làm cho lao động ở các địa phương” là biện pháp:",
+        options: [
+            "Văn hóa - giáo dục.", 
+            "Kinh tế - xã hội.", 
+            "Giáo dục của gia đình, nhà nước và xã hội.", 
+            "Quản lý nhà nước về ANTT xã hội ở các địa phương."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "“Gắn giáo dục kiến thức văn hoá với giáo dục kỹ năng sống” để phụ nữ và trẻ em:",
+        options: [
+            "Tham gia công tác phòng, chống tội phạm.", 
+            "Tránh xa những đối tượng có tiền án, tiền sự.", 
+            "Tự bảo vệ mình trước các nguy cơ bị xâm hại.", 
+            "Nâng cao nhận thức về thái độ và trách nhiệm."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "“Tăng cường công tác tuyên truyền, phổ biến giáo dục pháp luật về tội xâm phạm nhân phẩm, danh dự trong cộng đồng dân cư” là nội dung của biện pháp:",
+        options: [
+            "Văn hóa - giáo dục.", 
+            "Kinh tế - xã hội.", 
+            "Giáo dục của gia đình.", 
+            "Giáo dục của Nhà nước và xã hội."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Biện pháp văn hóa - giáo dục được xác định là biện pháp:",
+        options: [
+            "Quan trọng, hàng đầu.", 
+            "Thường xuyên, liên tục.", 
+            "Cơ bản, lâu dài.", 
+            "Bao trùm, cấp thiết."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "“Chú trọng giáo dục đạo đức lẫn kiến thức; lồng ghép nội dung giáo dục giới tính, sức khỏe sinh sản cho học sinh” là trách nhiệm chính của:",
+        options: [
+            "Gia đình.", 
+            "Xã hội.", 
+            "Đoàn thể.", 
+            "Nhà trường."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "“Thường xuyên tuyên truyền, vận động quần chúng nhân dân trong đấu tranh, phòng, chống tội xâm phạm nhân phẩm, danh dự của con người” là trách nhiệm của:",
+        options: [
+            "Cơ quan chức năng.", 
+            "Quần chúng nhân nhân.", 
+            "Đoàn thể ở địa phương.", 
+            "Cấp ủy Đảng và chính quyền."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "“Nâng cao hiệu quả phối hợp giữa các chủ thể phòng, chống các tội xâm phạm nhân phẩm, danh dự của con người ở các địa phương” là một trong những nội dung của:",
+        options: [
+            "Quan điểm phòng, chống.", 
+            "Phương hướng phòng, chống.", 
+            "Nhiệm vụ phòng, chống.", 
+            "Biện pháp phòng, chống."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "“Tập trung giải quyết những vấn đề bức xúc về tội phạm và tệ nạn xã hội, không để hình thành địa bàn phức tạp” là nghĩa vụ và trách nhiệm của các cơ quan chức năng:",
+        options: [
+            "Công an - Tòa án - Gia đình.", 
+            "Công an - Viện Kiểm sát - Nhà trường.", 
+            "Viện Kiểm sát – Tòa án - Đoàn thể.", 
+            "Công an - Viện Kiểm sát - Tòa án."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "“Tự giác chấp hành các quy định về phòng, chống các tội xâm phạm nhân phẩm, danh dự của con người ở nhà trường và địa phương nơi cư trú” là:",
+        options: [
+            "Phương hướng, nhiệm vụ của sinh viên.", 
+            "Mục đích, yêu cầu của sinh viên.", 
+            "Thái độ, nghĩa vụ của sinh viên.", 
+            "Vai trò, trách nhiệm của sinh viên."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Danh dự, nhân phẩm của con người bao gồm:",
+        options: [
+            "Phẩm giá, giá trị, sự tôn trọng, tình cảm yêu mến của những người xung quanh, của xã hội đối với người đó.", 
+            "Phẩm giá, giá trị, sự tôn trong, sự ngưỡng mộ của những người xung quanh, của xã hội đối với người đó.", 
+            "Sự tôn trọng, sùng bái, tín nhiệm của những người xung quanh, của xã hội đối với người đó.", 
+            "Phẩm giá, sùng bái, tín nhiệm của những người xung quanh, của xã hội đối với người đó."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Danh dự của con người được xác nhận dựa trên:",
+        options: [
+            "Giá trị vật chất và uy tín xã hội.", 
+            "Giá trị tinh thần, đạo đức tốt đẹp.", 
+            "Sự sùng bái của đám đông.", 
+            "Giá trị tinh thần và giá trị vật chất."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Nhân phẩm là phẩm chất, giá trị của một con người được:",
+        options: [
+            "Cộng đồng bảo vệ.", 
+            "Tôn giáo bảo vệ.", 
+            "Quần chúng nhân dân bảo vệ.", 
+            "Pháp luật bảo vệ."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Hành vi xâm phạm danh dự, nhân phẩm của con người là làm cho người đó bị:",
+        options: [
+            "Tổn thương về vật chất và tinh thần.", 
+            "Xúc phạm, tổn thương về vật chất.", 
+            "Mất cơ hội thăng tiến trong xã hội.", 
+            "Xúc phạm, tổn thương về tinh thần và xấu hổ với người xung quanh."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Đối tượng tác động của các tội xâm phạm danh dự, nhân phẩm là:",
+        options: [
+            "Con người cụ thể.", 
+            "Uy tín trong xã hội.", 
+            "Địa vị trong xã hội.", 
+            "Cơ hội thăng tiến."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Mặt khách quan của các tội xâm phạm danh dự, nhân phẩm của con người thể hiện ở:",
+        options: [
+            "Những hành vi gây ảnh hưởng tới tinh thần xâm phạm trực tiếp tới danh dự, nhân phẩm của con người.", 
+            "Những hành vi nguy hiểm cho xã hội xâm phạm trực tiếp tới danh dự, nhân phẩm của con người.", 
+            "Những hành vi gây tổn hại vật chất xâm phạm trực tiếp tới danh dự, nhân phẩm của con người.", 
+            "Những hành vi đi ngược lại chuẩn mực đạo đức xâm phạm trực tiếp tới danh dự, nhân phẩm của con người."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Đối tượng xâm hại danh dự, nhân phẩm sử dụng những công cụ, phương tiện khác nhau để gây ra:",
+        options: [
+            "Thiệt hại về vật chất cho người khác.", 
+            "Thiệt hại về tinh thần cho người khác.", 
+            "Thiệt hại về tính mạng và tài sản cho người khác.", 
+            "Thiệt hại hoặc đe dọa gây ra thiệt hại cho người khác."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Chủ thể của tội xâm hại danh dự, nhân phẩm là:",
+        options: [
+            "Những người có tiền án, tiền sự.", 
+            "Những người nằm trong khung độ tuổi quy định.", 
+            "Những thành phần vô gia cư.", 
+            "Những người có năng lực trách nhiệm hình sự và đạt độ tuổi nhất định."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những nguyên nhân, điều kiện của tình trạng phạm tội xúc phạm danh dự, nhân phẩm là:",
+        options: [
+            "Sự bất đồng quan điểm cá nhân.", 
+            "Sự tác động của chênh lệch giàu nghèo.", 
+            "Làm mất cơ hội thăng tiến của người khác.", 
+            "Sự tác động bởi những mặt trái của nền kinh tế thị trường."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những yếu tố hình thành nguyên nhân, điều kiện của tình trạng phạm tội xúc phạm danh dự, nhân phẩm:",
+        options: [
+            "Bất bình đẳng giới.", 
+            "Tệ nạn xã hội phát triển.", 
+            "Giá trị vật chất lên ngôi.", 
+            "Phân hóa giàu nghèo."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những nguyên nhân, điều kiện của tình trạng phạm tội xúc phạm danh dự, nhân phẩm là:",
+        options: [
+            "Hủ tục lạc hậu.", 
+            "Kinh tế chậm phát triển.", 
+            "Dân trí thấp.", 
+            "Tàn dư của những hiện tượng tiêu cực do chế độ cũ để lại."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những tàn dư chế độ cũ để lại làm nảy sinh các hiện tượng tiêu cực trong đó có tội phạm là:",
+        options: [
+            "Tệ nạn Cờ bạc.", 
+            "Tệ nạn Mê tín dị đoan.", 
+            "Tệ nạn Ma túy.", 
+            "Tư tưởng trọng nam khinh nữ."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Mục đích của phòng, ngừa tội phạm là:",
+        options: [
+            "Khắc phục những hạn chế do chế độ cũ để lại.", 
+            "Khắc phục những nguyên nhân, điều kiện của tình trạng phạm tội.", 
+            "Nâng cao chất lượng đời sống cho người dân.", 
+            "Thực hiện mục tiêu phát triển kinh tế - xã hội."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Mục đích của phòng, ngừa tội phạm là:",
+        options: [
+            "Nâng cao chất lượng đời sống cho người dân.", 
+            "Khắc phục những hạn chế do chế độ cũ để lại.", 
+            "Thực hiện mục tiêu phát triển kinh tế - xã hội.", 
+            "Ngăn chặn, hạn chế và làm giảm từng bước, tiến tới loại trừ tội phạm ra khỏi đời sống cộng đồng."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Phòng ngừa tội phạm là thể hiện:",
+        options: [
+            "Nguyên tắc hoạt động trong công tác đấu tranh, phòng chống tội phạm.", 
+            "Biện pháp chính trong công tác đấu tranh, phòng chống tội phạm.", 
+            "Tinh thần chỉ đạo trong công tác đấu tranh, phòng chống tội phạm.", 
+            "Tư tưởng chỉ đạo trong công tác đấu tranh, phòng chống tội phạm."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Làm tốt công tác phòng ngừa tội phạm mang ý nghĩa:",
+        options: [
+            "Giữ vững an ninh quốc gia, trật tự an toàn xã hội.", 
+            "Nâng cao chất lượng đời sống một bộ phận người dân.", 
+            "Xóa bỏ hủ tục lạc hậu.", 
+            "Góp phần phát triển kinh tế- xã hội ở một số khu vực."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Khắc phục nguyên nhân, điều kiện của tình trạng phạm tội là:",
+        options: [
+            "Mang tính vĩ mô.", 
+            "Mang tính chiến lược.", 
+            "Mang tính cơ bản.", 
+            "Hướng mang tính cơ bản, chiến lược và lâu dài."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Đâu là hướng ưu tiên hàng đầu trong phòng chống tội xâm hại danh dự, nhân phẩm:",
+        options: [
+            "Đẩy mạnh công tác giáo dục tuyên truyền.", 
+            "Hạn chế mức thấp nhất hậu quả xảy ra.", 
+            "Tăng khung hình phạt dành cho đối tượng phạm tội.", 
+            "Khắc phục nguyên nhân, điều kiện của tình trạng phạm tội."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Đâu là hướng quan trọng trong phòng chống tội phạm xâm hại danh dự, nhân phẩm:",
+        options: [
+            "Tăng khung hình phạt dành cho đối tượng phạm tội.", 
+            "Đẩy mạnh công tác giáo dục tuyên truyền.", 
+            "Khắc phục nguyên nhân điều kiện của tình trạng phạm tội.", 
+            "Hạn chế đến mức thấp nhất hậu quả, tác hại khi tội phạm gây ra."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Trong phòng chống tội phạm xâm hại danh dự, nhân phẩm cơ quan nào giữ vai trò ban hành, điều chỉnh các luật, văn bản pháp lý có liên quan:",
+        options: [
+            "Bộ công an.", 
+            "Chính phủ, ủy ban nhân dân các cấp.", 
+            "Tòa án nhân dân.", 
+            "Quốc hội, hội đồng nhân các cấp."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Trong phòng chống tội phạm xâm hại danh dự, nhân phẩm cơ quan nào giữ vai trò quản lý, điều hành, bảo đảm điều kiện cần thiết:",
+        options: [
+            "Bộ công an.", 
+            "Bộ tài chính.", 
+            "Quốc hội, hội đồng Nhân dân các cấp.", 
+            "Chính phủ, ủy ban nhân dân các cấp."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Trong phòng chống tội phạm xâm hại danh dự, nhân phẩm các cơ quan nào giữ vai trò nghiên cứu, phân tích tình trạng phạm tội, xác định nguyên nhân, điều kiện của tội phạm:",
+        options: [
+            "Bộ tư pháp, viến kiểm sát nhân dân, quân đội.", 
+            "Công an, quân đội, mặt trận tổ quốc.", 
+            "Công an, bộ tài chính, bộ tư pháp.", 
+            "Công an, viện kiểm sát, tòa án."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Công dân với tư cách:",
+        options: [
+            "Khách thể trong phòng chống tội phạm.", 
+            "Chủ thể trong phòng chống tội phạm.", 
+            "Điều tra trong phòng chống tội phạm.", 
+            "Xét xử trong phòng chống tội phạm."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những nguyên tắc tổ chức, hoạt động phòng chống tội phạm xâm hại danh dự, nhân phẩm:",
+        options: [
+            "Nguyên tắc khoa học.", 
+            "Nguyên tắc dân chủ.", 
+            "Nguyên tắc cộng sinh.", 
+            "Nguyên tắc pháp chế."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những nguyên tắc tổ chức, hoạt động phòng chống tội phạm xâm hại danh dự, nhân phẩm:",
+        options: [
+            "Nguyên tắc dân chủ.", 
+            "Nguyên tắc dân chủ xã hội chủ nghĩa.", 
+            "Nguyên tắc khoa học.", 
+            "Nguyên tắc cộng sinh."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Một trong những nguyên tắc tổ chức, hoạt động phòng chống tội phạm xâm hại danh dự, nhân phẩm:",
+        options: [
+            "Nguyên tắc dân chủ.", 
+            "Nguyên tắc khoa học và sự tiến bộ.", 
+            "Nguyên tắc pháp lý.", 
+            "Nguyên tắc khoa học và tiến bộ trong phòng ngừa."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những nguyên tắc tổ chức, hoạt động phòng chống tội phạm xâm hại danh dự, nhân phẩm:",
+        options: [
+            "Nguyên tắc khoa học.", 
+            "Nguyên tắc dân chủ.", 
+            "Nguyên tắc cộng sinh.", 
+            "Nguyên tắc nhân đạo trong phòng ngừa."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Một trong những nguyên tắc tổ chức, hoạt động phòng chống tội phạm xâm hại danh dự, nhân phẩm:",
+        options: [
+            "Nguyên tắc cụ thể hóa trong phòng ngừa tội phạm.", 
+            "Nguyên tắc nhân đạo.", 
+            "Nguyên tắc dân chủ.", 
+            "Nguyên tắc khoa học."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Trong nguyên tắc pháp chế phòng chống tội phạm xâm hại danh dự, nhân phẩm nhấn mạnh. Mọi hoạt động phòng ngừa tội phạm của các cơ quan nhà nước, tổ chức, các công dân phải:",
+        options: [
+            "Phù hợp luật pháp quốc tế.", 
+            "Phù hợp với trình độ dân trí.", 
+            "Phù hợp văn hóa địa phương.", 
+            "Hợp hiến, hợp pháp."
+        ],
+        correctAnswer: 3
+    },
 ];
