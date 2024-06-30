@@ -10,7 +10,7 @@ h1 {
     text-shadow: 0px 1px 2px #14eefd;
     color: #1900ff;
     margin-top: 30px;
-    margin: 30px auto 5px; 
+    margin: 30px auto 5px;
 }
 
 p {
@@ -29,12 +29,13 @@ img {
 #right {
     display: none;
     position: fixed;
-    top: 63px; 
-    right: 12px; 
+    top: 63px;
+    right: 12px;
     margin: auto;
-    width: 430px; 
-    padding: 10px; 
-    background-color: #e9fffa; 
+    width: 80%;
+    max-width: 420px;
+    padding: 10px;
+    background-color: #e9fffa;
     border-radius: 10px;
     border: 2px solid #01a1ac3d;
 }
@@ -57,10 +58,10 @@ img {
 
 #question-nav div {
     display: inline-block;
-    width: 12%; 
-    text-align: center; 
-    margin: 5px; 
-    background-color: #ffffff; 
+    width: 12%;
+    text-align: center;
+    margin: 5px;
+    background-color: #ffffff;
     border-radius: 5px;
 }
 
@@ -87,7 +88,7 @@ div button {
 }
 
 .question h3 {
-    font-size: 18px;
+    font-size: 17px;
     text-align: justify;
     margin: 5px 5px;
 }
@@ -122,17 +123,23 @@ div button:hover {
 }
 
 .correct {
-    background-color: #a0ffa0; 
+    background-color: #a0ffa0;
 }
 
 .incorrect {
-    background-color: #ffb3b3; 
+    background-color: #ffb3b3;
 }
 
 #question-nav div.correct {
-    background-color: #a0ffa0; 
+    background-color: #a0ffa0;
 }
 
 #question-nav div.incorrect {
-    background-color: #ffb3b3; 
+    background-color: #ffb3b3;
+}
+
+@media (max-width: 600px) {
+    #right-toggle {
+        top: -80px;
+    }
 }

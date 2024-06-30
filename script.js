@@ -29,7 +29,7 @@ function jumpToQuestion(index) {
     questionElements[index].scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
-window.onload = function() {
+window.onload = function () {
     const quizContainer = document.getElementById('quiz-container');
     randomQuestions = getRandomQuestions(questions, 20);
 
@@ -84,14 +84,24 @@ function submitQuiz() {
     alert(`Bạn đã đúng ${score}/${randomQuestions.length} câu. Chúc bạn ôn bài vui vẻ!`);
 }
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const rightToggle = document.createElement('div');
     rightToggle.id = 'right-toggle';
-    rightToggle.innerHTML = '<img src="assets/images/nav-icon.png" atl="nav icon" width="55px">'; 
+    rightToggle.innerHTML = '<img src="assets/images/nav-icon.png" atl="nav icon" width="55px">';
 
-    rightToggle.addEventListener('click', function() {
+    rightToggle.addEventListener('click', function () {
         document.getElementById('right').classList.toggle('active');
     });
 
     document.body.appendChild(rightToggle);
 });
+
+window.onscroll = function () {
+    var header = document.getElementById("right-toggle");
+    if (window.innerWidth <= 768 && window.innerHeight <= 1024) {
+        if (document.documentElement.scrollTop > 50) 
+            header.style.top = "10px";
+        else 
+            header.style.top = "-80px";
+    }
+};
