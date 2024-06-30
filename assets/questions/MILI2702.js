@@ -1,3 +1,9 @@
+var title = document.getElementById("title");
+var description = document.getElementById("description");
+
+title.textContent = "Trắc nghiệm học phần MILI2702"
+description.innerHTML += "<br>" + "Mình đã cập nhật xong nội dung tất cả các bài, gồm 400 câu hỏi. Bạn có thể nhấn nộp bài ngay để xem đáp án."
+
 const questions = [
 
     // Bài 1: Phòng, chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ của các thế lực thù địch đối với cách mạng Việt Nam
