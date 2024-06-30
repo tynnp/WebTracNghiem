@@ -6,15 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="tynnp">
     <title>Web Trắc Nghiệm - tynnp</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="assets/styles/styles.css">
     <link rel="website icon" type="png" href="assets/images/question-icon.png">
 </head>
 
 <body>
-    <h1>Trắc nghiệm học phần MILI2702</h1>
-    <p>
-        Mỗi lần refresh trang web bạn sẽ có 20 câu hỏi ngẫu nhiên khác nhau.<br>
-        Hiện tại mình đã cập nhật xong nội dung tất cả các bài, gồm 400 câu hỏi. Bạn có thể nhấn nộp bài ngay để xem đáp án.
+    <h1 id="title">Tên bài</h1>
+    <p id="description">
+        Mỗi lần refresh trang web bạn sẽ có 20 câu hỏi ngẫu nhiên khác nhau.
     </p>
 
     <div id="quiz-container"></div>
@@ -24,8 +23,16 @@
         <button id="toggle-right" onclick="submitQuiz()">Nộp bài</button>
     </div>
 
+    <footer>
+        <span>
+            <p id="copyright">&copy; 2024 tynnp</p>
+            <p>Dù đã hết sức cố gắng nhưng trong quá trình lập trình có thể không tránh khỏi những sai sót. <br>
+            Mong các bạn <a href="mailto:tynnp2002@gmail.com">đóng góp ý kiến</a> để trang web ngày càng được hoàn thiện hơn. Chân thành cảm ơn!</p>
+        </span>
+    </footer>
+
     <script src="assets/questions/MILI2702.js"></script>
-    <script src="script.js"></script>
+    <script src="assets/script/script.js"></script>
 </body>
 
 </html>

@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -24,6 +25,54 @@ p {
 
 img {
     transform: scaleX(-1);
+}
+
+footer {
+    margin: 0;
+    padding: 0 10px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #a4ffbb21;
+}
+
+footer>span {
+    margin: auto 0px;
+}
+
+span>p {
+    margin: auto;
+    color: #0a473a;
+    font-style: italic;
+    font-size: 16px;
+}
+
+a {
+    color: #04a31a;
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 1px 1px 2px rgb(130, 255, 130);
+}
+
+a:active {
+    color: red;
+    text-shadow: 1px 1px 2px rgb(255, 219, 219);
+}
+
+a:visited {
+    color: #04a31a;
+    text-shadow: none;
+}
+
+#copyright {
+    color: #054e05;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #right {
