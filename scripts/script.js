@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function () {
 window.onscroll = function () {
     var header = document.getElementById("right-toggle");
     if (window.innerWidth <= 768 && window.innerHeight <= 1024) {
-        if (document.documentElement.scrollTop > 50) 
+        if (document.documentElement.scrollTop > 180) 
             header.style.top = "10px";
         else 
             header.style.top = "-80px";
