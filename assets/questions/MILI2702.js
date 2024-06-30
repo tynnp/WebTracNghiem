@@ -3353,4 +3353,588 @@ const questions = [
         ],
         correctAnswer: 3
     },
+
+    {
+        question: "Luật An toàn thông tin mạng gồm bao nhiêu chương, điều?",
+        options: [
+            "08 chương, 54 điều.", 
+            "08 chương, 45 điều.", 
+            "07 chương, 54 điều.", 
+            "07 chương, 45 điều."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Luật An ninh mạng gồm bao nhiêu chương, điều?",
+        options: [
+            "07 chương, 34 điều.", 
+            "07 chương, 43 điều.", 
+            "08 chương, 34 điều.", 
+            "08 chương, 43 điều."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Các đối tượng sử dụng không gian mạng để đăng thông tin độc hại nhằm mục đích:",
+        options: [
+            "Tạo uy tín cho một vài cá nhân.", 
+            "Ngăn chặn, làm giảm tội phạm.", 
+            "Xúi giục, lôi kéo, kích động người khác phạm tội.", 
+            "Kích thích kinh tế phát triển."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Luật An toàn thông tin mạng Có hiệu lực thi hành từ:",
+        options: [
+            "Ngày 07 tháng 01 năm 2016.", 
+            "Ngày 01 tháng 07 năm 2016.", 
+            "Ngày 01 tháng 07 năm 2015.", 
+            "Ngày 07 tháng 01 năm 2015."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Chủ thể thông tin cá nhân là:",
+        options: [
+            "Người quản lý thông tin cá nhân đó.", 
+            "Người được thu thập thông tin cá nhân đó.", 
+            "Người được xác định từ thông tin cá nhân đó.", 
+            "Người được kiểm tra thông tin cá nhân đó."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Các hành vi bị nghiêm cấm của luật an toàn thông tin mạng:",
+        options: [
+            "Phát tán thư rác, phần mềm độc hại, thiết lập hệ thống thông tin giả mạo, lừa đảo.", 
+            "Phát tán thư rác, vi rút độc hại, thiết lập hệ thống thông tin giả mạo, lừa đảo.", 
+            "Phát tán thư rác, phần mềm độc hại, tuyên truyền các thông tin giả mạo, lừa đảo.", 
+            "Phát tán thư rác, phần mềm độc hại, đưa thông tin giả mạo, lừa đảo, xuyên tạc, tấn công mạng."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Bảo vệ an ninh mạng là:",
+        options: [
+            "Phòng ngừa, điều tra, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng.", 
+            "Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng.", 
+            "Phòng ngừa, phát hiện, điều tra, xử lý hành vi xâm phạm an ninh mạng.", 
+            "Điều tra, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Không gian mạng quốc gia là:",
+        options: [
+            "Không gian mạng do Chính phủ xây dựng, quản lý và kiểm soát.", 
+            "Không gian mạng do Chính phủ quản lý và kiểm soát.", 
+            "Không gian mạng do Chính phủ xác lập, quản lý và kiểm soát.", 
+            "Không gian mạng do Chính phủ xác lập và kiểm soát."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Khủng bố mạng là:",
+        options: [
+            "Việc sử dụng tài khoản cá nhân để thực hiện hành vi khủng bố, tài trợ khủng bố.", 
+            "Việc sử dụng tài khoản tổ chức để thực hiện hành vi khủng bố, tài trợ khủng bố.", 
+            "Việc sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện hành vi khủng bố, tài trợ khủng bố.", 
+            "Việc sử dụng tài liệu liên quan đến không gian mạng để thực hiện hành vi khủng bố, tài trợ khủng bố."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam:",
+        options: [
+            "Tuyên truyền tư tưởng sống tự do, cực đoan; Chiến tranh tâm lý, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước; Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc.", 
+            "Tuyên truyền tư tưởng sống tự do, cực đoan; Đòi tự do, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước; Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc.", 
+            "Tuyên truyền xuyên tạc, phỉ báng chính quyền nhân dân; Đòi tự do, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước; Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc.", 
+            "Tuyên truyền xuyên tạc, phỉ báng chính quyền nhân dân; Chiến tranh tâm lý, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước; Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Thông tin trên không gian mạng có nội dung:” Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc”. Là nội dung vi phạm:",
+        options: [
+            "Thông tin trên không gian mạng có nội dung kích động gây bạo loạn, phá rối an ninh, gây rối TTCC.", 
+            "Thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước CHXHCH Việt Nam.", 
+            "Thông tin trên không gian mạng có nội dung làm nhục, vu khống.", 
+            "Thông tin trên không gian mạng có nội dung xâm phạm trật tự quản lý kinh tế ."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Thông tin trên không gian mạng có nội dung:” Chiến tranh tâm lý, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước”. Là nội dung vi phạm:",
+        options: [
+            "Thông tin trên không gian mạng có nội dung kích động gây bạo loạn, phá rối an ninh, gây rối TTCC.", 
+            "Thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước CHXHCH Việt Nam.", 
+            "Thông tin trên không gian mạng có nội dung làm nhục, vu khống.", 
+            "Thông tin trên không gian mạng có nội dung xâm phạm trật tự quản lý kinh tế."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Thông tin trên không gian mạng có nội dung kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng:",
+        options: [
+            "Chiến tranh tâm lý, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước.", 
+            "Thông tin bịa đặt, sai sự thật xâm phạm danh dự, uy tín, nhân phẩm hoặc gây thiệt hại đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác.", 
+            "Kêu gọi, vận động, xúi giục, đe dọa, gây chia rẽ, tiến hành hoạt động vũ trang hoặc dùng bạo lực nhằm chống chính quyền nhân dân.", 
+            "Tuyên truyền xuyên tạc, phỉ báng chính quyền nhân dân."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Thông tin trên không gian mạng có nội dung làm nhục, vu khống:",
+        options: [
+            "Xúc phạm nghiêm trọng danh dự, uy tín, nhân phẩm của người khác.", 
+            "Tuyên truyền xuyên tạc, phỉ báng chính quyền nhân dân.", 
+            "Thông tin bịa đặt, sai sự thật về sản phẩm, hàng hóa, tiền, trái phiếu, tín phiếu, công trái, séc và các loại giấy tờ có giá trị khác.", 
+            "Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Thông tin trên không gian mạng có nội dung xâm phạm trật tự quản lý kinh tế:",
+        options: [
+            "Thông tin bịa đặt, sai sự thật xâm phạm danh dự, uy tín, nhân phẩm hoặc gây thiệt hại đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác.", 
+            "Thông tin bịa đặt, sai sự thật về sản phẩm, hàng hóa, tiền, trái phiếu, tín phiếu, công trái, séc và các loại giấy tờ có giá trị khác.", 
+            "Kêu gọi, vận động, xúi giục, đe dọa, lôi kéo tụ tập đông người gây rối, chống người thi hành công vụ, cản trở hoạt động của cơ quan, tổ chức gây mất ổn định về ANTT.", 
+            "Thông tin có nội dung vu khống về sản phẩm, hàng hóa, tiền, trái phiếu, tín phiếu, công trái, séc và các loại giấy tờ có giá trị khác."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Chính phủ đã ban hành Nghị định số 15/2020/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, công nghệ thông tin và giao dịch điện tử khi nào?",
+        options: [
+            "Ngày 02 tháng 03 năm 2020.", 
+            "Ngày 03 tháng 02 năm 2019.", 
+            "Ngày 03 tháng 02 năm 2020.", 
+            "Ngày 02 tháng 03 năm 2019."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Theo Điều 101 của Nghị định này, hành vi cung cấp, chia sẻ thông tin giả mạo, thông tin sai sự thật, xuyên tạc, vu khống, xúc phạm uy tín của cơ quan, tổ chức, danh dự, nhân phẩm của cá nhân sẽ bị phạt từ:",
+        options: [
+            "15.000.000 đồng đến 25.000.000 đồng.", 
+            "10.000.000 đồng đến 20.000.000 đồng.", 
+            "20.000.000 đồng đến 30.000.000 đồng.", 
+            "25.000.000 đồng đến 35.000.000 đồng."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phạt tiền đối với hành vi xâm phạm đến quyền, lợi ích hợp pháp của chủ sở hữu cơ sở dữ liệu hoặc cản trở việc sử dụng cơ sở dữ liệu của chủ sở hữu khi thực hiện tái sản xuất, phân phối, quảng bá, truyền đưa, cung cấp nội dung hợp thành cơ sở dữ liệu:",
+        options: [
+            "100.000.000 đồng đến 200.000.000 đồng.", 
+            "140.000.000 đồng đến 200.000.000 đồng.", 
+            "100.000.000 đồng đến 140.000.000 đồng.", 
+            "140.000.000 đồng đến 240.000.000 đồng."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Phạt tiền đối với hành vi phá hoại cơ sở hạ tầng thông tin hoặc phá hoại thông tin trên môi trường mạng:",
+        options: [
+            "140.000.000 đồng đến 200.000.000 đồng.", 
+            "140.000.000 đồng đến 170.000.000 đồng.", 
+            "100.000.000 đồng đến 170.000.000 đồng.", 
+            "100.000.000 đồng đến 200.000.000 đồng."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Phạt tiền đối hành vi bẻ khóa, trộm cắp, sử dụng mật khẩu, khóa mật mã và thông tin của tổ chức, cá nhân khác trên môi trường mạng:",
+        options: [
+            "10.000.000 đồng đến 25.000.000 đồng.", 
+            "10.000.000 đồng đến 20.000.000 đồng.", 
+            "15.000.000 đồng đến 20.000.000 đồng.", 
+            "15.000.000 đồng đến 25.000.000 đồng."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Các đối tượng sử dụng không gian mạng để đăng thông tin độc hại nhằm mục đích:",
+        options: [
+            "Ghi nhận lịch sử, truyền bá tư tưởng.", 
+            "Tạo uy tín cho một vài cá nhân.", 
+            "Gây hoang mang trong nhân dân.", 
+            "Tăng thêm tính đoàn kết cộng đồng."
+        ],
+        correctAnswer: 2 
+    },
+
+    {
+        question: "Phạt tiền đối hành vi Thu thập thông tin cá nhân khi chưa có sự đồng ý của chủ thể thông tin cá nhân về phạm vi, mục đích của việc thu thập và sử dụng thông tin đó; Cung cấp thông tin cá nhân cho bên thứ ba khi chủ thể thông tin cá nhân đã yêu cầu ngừng cung cấp:",
+        options: [
+            "10.000.000 đồng đến 40.000.000 đồng.", 
+            "20.000.000 đồng đến 30.000.000 đồng.", 
+            "10.000.000 đồng đến 20.000.000 đồng.", 
+            "20.000.000 đồng đến 40.000.000 đồng."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Phạt tiền đối với hành vi Sử dụng không đúng mục đích thông tin cá nhân đã thỏa thuận khi thu thập hoặc khi chưa có sự đồng ý của chủ thể thông tin cá nhân; Cung cấp hoặc chia sẻ hoặc phát tán thông tin cá nhân đã thu thập, tiếp cận, kiểm soát cho bên thứ ba khi chưa có sự đồng ý của chủ thông tin cá nhân; Thu thập, sử dụng, phát tán, kinh doanh trái pháp luật thông tin cá nhân của người khác:",
+        options: [
+            "10.000.000 đồng đến 30.000.000 đồng.", 
+            "20.000.000 đồng đến 40.000.000 đồng.", 
+            "10.000.000 đồng đến 40.000.000 đồng.", 
+            "20.000.000 đồng đến 30.000.000 đồng."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Ngăn chặn, yêu cầu tạm ngừng, ngừng cung cấp thông tin mạng; đình chỉ, tạm đình chỉ các hoạt động thiết lập, cung cấp và sử dụng mạng viễn thông, mạng Internet, sản xuất và sử dụng thiết bị phát, thu phát sóng vô tuyến theo quy định của pháp luật là nội dung:",
+        options: [
+            "Nguyên tắc bảo vệ an ninh mạng.", 
+            "Hình thức bảo vệ an ninh mạng.", 
+            "Biện pháp bảo vệ an ninh mạng.", 
+            "Yêu cầu bảo vệ an ninh mạng."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Chủ động phòng ngừa, phát hiện, ngăn chặn, đấu tranh, làm thất bại mọi hoạt động sử dụng không gian mạng xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; sẵn sàng ngăn chặn các nguy cơ đe dọa an ninh mạng là nội dung:",
+        options: [
+            "Nguyên tắc bảo vệ an ninh mạng.", 
+            "Đặc điểm bảo vệ an ninh mạng.", 
+            "Yêu cầu bảo vệ an ninh mạng.", 
+            "Biện pháp bảo vệ an ninh mạng."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Kịp thời cung cấp thông tin liên quan đến bảo vệ an ninh mạng, nguy cơ đe dọa an ninh mạng, hành vi xâm phạm an ninh mạng cho cơ quan có thẩm quyền, lực lượng bảo vệ an ninh mạng là nội dung:",
+        options: [
+            "Biện pháp của cơ quan, tổ chức, cá nhân sử dụng không gian mạng.", 
+            "Trách nhiệm của cơ quan, tổ chức, cá nhân sử dụng không gian mạng.", 
+            "Nguyên tắc của cơ quan, tổ chức, cá nhân sử dụng không gian mạng.", 
+            "Yêu cầu của cơ quan, tổ chức, cá nhân sử dụng không gian mạng."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Các đối tượng sử dụng không gian mạng để đăng thông tin độc hại nhằm mục đích:",
+        options: [
+            "Ngăn chặn, làm giảm tội phạm.", 
+            "Bảo tồn lưu giữ giá trị văn hóa.", 
+            "Tăng thêm tính đoàn kết cộng đồng.", 
+            "Tuyên truyền tệ nạn xã hội."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "An toàn thông tin là:",
+        options: [
+            "An toàn kỹ thuật cho phần mềm thông tin theo tiêu chuẩn kỹ thuật.", 
+            "An toàn thông tin cho phần cứng theo tiêu chuẩn kỹ thuật.", 
+            "An toàn kỹ thuật cho các hoạt động của các cơ sở hạ tầng thông tin.", 
+            "An toàn cho hệ thống máy móc, trang thiết bị."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "An toàn thông tin mạng là:",
+        options: [
+            "Bảo vệ hệ thống thông tin.", 
+            "Sự bảo vệ thông tin, hệ thống thông tin mạng.", 
+            "Bảo vệ nội dung truyền tin.", 
+            "Bảo vệ phương tiện truyền tin."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "An toàn thông tin mạng nhằm:",
+        options: [
+            "Chống việc thông tin bị phá hoại, đánh cắp.", 
+            "Chống truy nhập, truyền đi nội dung thông tin giả.", 
+            "Tránh bị truy nhập, sử dụng, tiết lộ, sửa đổi hoặc phá hoại trái phép thông tin.", 
+            "Đảm bảo thông tin thông suốt."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Mục đích của an toàn thông tin mạng nhằm:",
+        options: [
+            "Đảm bảo tính bí mật của thông tin.", 
+            "Đảm bảo tính nguyên vẹn, tính bảo mật và tính khả dụng của thông tin.", 
+            "Đảm bảo tính thông suốt của thông tin.", 
+            "Đảm bảo tính nguyên vẹn của thông tin."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "An ninh mạng là sự đảm bảo hoạt động trên không gian mạng không gây phương hại đến:",
+        options: [
+            "Sự phát triển kinh tế xã hội.", 
+            "Quyền tự do ngôn luận.", 
+            "An ninh quốc gia, trật tự an toàn xã hội.", 
+            "Quyền tự do tín ngưỡng, tôn giáo."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "An ninh mạng là sự đảm bảo hoạt động trên không gian mạng không gây phương hại đến:",
+        options: [
+            "Sự phát triển kinh tế xã hội.", 
+            "Quyền và lợi ích hợp pháp của các cơ quan, tổ chức và cá nhân.", 
+            "Quyền tự do ngôn luận.", 
+            "Quyền tự do tín ngưỡng, tôn giáo."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Tội phạm công nghệ cao gây tổn hại đến:",
+        options: [
+            "An ninh quốc gia.", 
+            "Tính mạng và tài sản của tổ chức, cá nhân.", 
+            "Lợi ích của nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.", 
+            "Lợi ích của các tổ chức chính trị, xã hội."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Trong cuộc cách mạng công nghiệp 4.0 thì thông tin được xem là:",
+        options: [
+            "Một dạng tài sản của từng cá nhân.", 
+            "Một dạng tài nguyên.", 
+            "Một dạng tài sản nhà nước quản lý.", 
+            "Không gian lưu trữ số liệu."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Mục tiêu chủ yếu tin tặc tấn công liên quan tới lĩnh vực:",
+        options: [
+            "An ninh.", 
+            "Tài chính.", 
+            "Quốc phòng.", 
+            "Văn hóa."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Bảo đảm an ninh, an toàn thông tin là nhiệm vụ mang tính:",
+        options: [
+            "Quan trọng hàng đầu trong tình hình hiện nay.", 
+            "Có tính chất sống còn với đất nước ta.", 
+            "Quan trọng và cấp bách trong tình hình hiện nay.", 
+            "Quan trọng và cấp thiết trong tình hình hiện nay."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Số liệu thống kê cho thấy tin tặc tấn công vào lĩnh vực tài chính chiếm:",
+        options: [
+            "21%.", 
+            "37%.", 
+            "73%.", 
+            "12%."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Số liệu thống kê cho thấy tin tặc tấn công vào lĩnh vực chính trị, tình báo chiếm:",
+        options: [
+            "31%.", 
+            "21%.", 
+            "37%.", 
+            "73%."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Theo số liệu thống kê từ năm 2012 -2013, số lần tin tặc tấn công vào cổng thông tin, trang điện tử của Việt Nam là:",
+        options: [
+            "7000 lượt.", 
+            "8000 lượt.", 
+            "5000 lượt.", 
+            "6000 lượt."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Năm 2018, thiệt hại do virut máy tính gây ra đối với người dùng Việt Nam ước tính là:",
+        options: [
+            "14.900 tỷ đồng.", 
+            "14.800 tỷ đồng.", 
+            "15.900 tỷ đồng.", 
+            "15.000 tỷ đồng."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một trong những yếu tố góp phần làm giảm các vụ tin tặc tấn công mạng trong thời gian qua là do:",
+        options: [
+            "Chế tài pháp luật đã tương đối đầy đủ.", 
+            "Các quy định, chế tài pháp luật đã đầy đủ và có tính răn đe cao.", 
+            "Chế tài pháp luật có tính răn đe cao.", 
+            "Các quy định, chế tài pháp luật đã tương đối đầy đủ và có tính răn đe cao."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Luật An ninh mạng của nước ta có hiệu lực từ khi nào?",
+        options: [
+            "01/01/2018.", 
+            "01/01/2020.", 
+            "01/01/2019.", 
+            "01/01/2021."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tin giả là:",
+        options: [
+            "Những thông tin sai sự thật, mang tính tuyên truyền, được phát tán dưới vỏ bọc tin quảng cáo.", 
+            "Những thông tin không chính xác, mang tính giật gân, được phát tán dưới vỏ bọc tin tức.", 
+            "Những thông tin sai sự thật, được phát tán dưới vỏ bọc tin tức.", 
+            "Những thông tin sai sự thật, mang tính giật gân, được phát tán dưới vỏ bọc tin tức."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Hiện nay các đối tượng tạo tin giả bằng cách sử dụng công nghệ để:",
+        options: [
+            "Giả lý lịch.", 
+            "Chiếm đoạt tài sản.", 
+            "Giả tiếng, giả hình, giả video.", 
+            "Tạo dựng uy tín."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Tin giả có thể được tạo ra và lan truyền nhằm mục đích:",
+        options: [
+            "Văn hóa.", 
+            "Chính trị.", 
+            "Thể thao.", 
+            "Tôn giáo."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Tin giả có thể được tạo ra và lan truyền nhằm mục đích:",
+        options: [
+            "Thương mại.", 
+            "Văn hóa.", 
+            "Thể thao.", 
+            "Tôn giáo."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Tin giả có thể gây ra tình trạng:",
+        options: [
+            "Tăng trưởng kinh tế.", 
+            "Rối loạn xã hội.", 
+            "Phòng chống dịch bệnh.", 
+            "Xóa đói giảm nghèo."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Mục đích sử dụng tin giả trong lĩnh vực thương mại nhằm:",
+        options: [
+            "Gây sự chú ý dư luận.", 
+            "Tạo ra sự cạnh tranh lành mạnh giữa các bên.", 
+            "Chiếm lĩnh thị trường.", 
+            "Gây tác động xấu đến đối thủ."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Nghị định nào hiện nay quy định về xử phạt hành chính trong lĩnh vực bưu chính viễn thông, công nghệ thông tin và tần số vô tuyến:",
+        options: [
+            "Nghị định 100.", 
+            "Nghị định 184.", 
+            "Nghị định 174.", 
+            "Nghị định 15."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Nghị định 15/2019/NĐ-CP quy định mức phạt tiền đối với hành vi gửi hoặc phát tán thư điện tử rác, tin nhắn rác, phần mềm độc hại là:",
+        options: [
+            "85 triệu đồng.", 
+            "90 triệu đồng.", 
+            "80 triệu đồng.", 
+            "95 triệu đồng."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Các đối tượng sử dụng không gian mạng để đăng thông tin độc hại nhằm mục đích:",
+        options: [
+            "Phát triển kinh tế xã hội.", 
+            "Gây ảnh hưởng đến an ninh quốc gia, trật tự, an toàn xã hội.", 
+            "Bảo tồn lưu giữ giá trị văn hóa.", 
+            "Tăng thêm tính đoàn kết cộng đồng."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Các đối tượng sử dụng không gian mạng để đăng thông tin độc hại nhằm mục đích:",
+        options: [
+            "Ghi nhận lịch sử, truyền bá tư tưởng.", 
+            "Bảo tồn lưu giữ giá trị văn hóa.", 
+            "Xuyên tạc lịch sử, phủ nhận thành quả cách mạng.", 
+            "Ngăn chặn, làm giảm tội phạm."
+        ],
+        correctAnswer: 2
+    },
+
 ];
