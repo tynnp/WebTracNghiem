@@ -3354,6 +3354,8 @@ const questions = [
         correctAnswer: 3
     },
 
+    // Bài 6: An toàn thông tin và phòng, chống vi phạm trên không gian mạng
+
     {
         question: "Luật An toàn thông tin mạng gồm bao nhiêu chương, điều?",
         options: [
@@ -3937,4 +3939,445 @@ const questions = [
         correctAnswer: 2
     },
 
+    // Bài 7: An ninh phi truyền thống và các mối đe dọa an ninh phi truyền thống ở Việt Nam
+
+    {
+        question: "An ninh truyền thống chính là:",
+        options: [
+            "An ninh quốc gia.", 
+            "An ninh đất nước.", 
+            "An ninh dân tộc.", 
+            "An ninh lãnh thổ."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Nội dung cơ bản của an ninh quốc gia là bảo vệ:",
+        options: [
+            "Lợi ích của nhà nước.", 
+            "Lợi ích của nhân dân.", 
+            "Lợi ích của giai cấp.", 
+            "Lợi ích của quốc gia."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Bảo vệ an ninh quốc gia là phải:",
+        options: [
+            "Loại bỏ những mối đe dọa đến lợi ích cơ bản của nhân dân.", 
+            "Đấu tranh với tội phạm và đối tượng phá hoại trật tự xã hội.", 
+            "Chặn đứng các hành động phá hoại, xâm phạm tài sản nhân dân.", 
+            "Loại trừ những mối uy hiếp đối với lợi ích cơ bản của quốc gia."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Mục tiêu của an ninh quốc gia là:",
+        options: [
+            "Phòng ngừa sự chống phá của các loại tội phạm.", 
+            "Bảo vệ vững chắc chủ quyền và an ninh quốc gia.", 
+            "Bảo vệ truyền thống đoàn kết trong nội bộ.", 
+            "Phòng chống nạn tham nhũng, quan liêu."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "An ninh quốc gia chính là:",
+        options: [
+            "Đất nước thoát khỏi chiến tranh.", 
+            "Quốc gia có kỷ cương, kỷ luật.", 
+            "Xã hội hoạt động trật tự, nền nếp.", 
+            "Sự ổn định, bình yên của đất nước."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "An ninh phi truyền thống có thể hiểu là một loại hình:",
+        options: [
+            "An ninh xuyên quốc gia.", 
+            "An toàn xuyên quốc gia.", 
+            "An ninh trong quốc gia.", 
+            "An toàn trong hội nhập."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Giải quyết các nội dung về an ninh phi truyền thống phải là nhiệm vụ:",
+        options: [
+            "Mang tính toàn cầu.", 
+            "Của từng quốc gia.", 
+            "Mang tính thống nhất.", 
+            "Của từng khu vực."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Gây ra những hệ lụy như: sản xuất đình trệ, thất nghiệp gia tăng, đứt gãy chuỗi cung ứng sản xuất và tiêu dùng, kinh tế suy thoái, kém phát triển, đời sống người dân gặp khó khăn… là những thách thức, đe dọa từ an ninh phi truyền thống đối với lĩnh vực:",
+        options: [
+            "Xã hội.", 
+            "Kinh tế.", 
+            "Môi trường.", 
+            "Sản xuất."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "An ninh phi truyền thống xuất phát từ các yếu tố do tự nhiên gây ra như:",
+        options: [
+            "Biến đổi khí hậu, xung đột biên giới, hỏa hoạn.", 
+            "Hạn hán, ô nhiễm môi trường, khủng hoảng kinh tế.", 
+            "Biến dổi khí hậu, thiên tai, bão lũ, hạn hán, sóng thần.", 
+            "Khủng hoảng kinh tế, hạn hán, tội phạm, ma túy."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Toàn cầu hóa, các yếu tố an ninh phi truyền thống đe dọa đến sự giữ gìn và phát triển bản sắc văn hóa của mỗi dân tộc là thách thức đe dọa đối với lĩnh vực:",
+        options: [
+            "Văn hóa xã hội.", 
+            "Văn hóa tư tưởng.", 
+            "Văn hóa truyền thống.", 
+            "Văn hóa dân tộc."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "An ninh phi truyền thống do các yếu tố:",
+        options: [
+            "Phi kinh tế, phi chính trị gây ra.", 
+            "Phi chính trị, phi quân sự gây ra.", 
+            "Phi quân sự, phi ngoại giao gây ra.", 
+            "Phi quân sự, phi văn hóa gây ra."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Đảng đã chỉ rõ “sẵn sàng ứng phó với các mối đe dọa an ninh truyền thống và phi truyền thống” tại:",
+        options: [
+            "Nghị quyết Trung ương 8.", 
+            "Đại hội lần thứ XII.", 
+            "Đại hội lần thứ X.", 
+            "Nghị quyết Trung ương 12."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Những thách thức, nguy cơ đối với an ninh truyền thống là:",
+        options: [
+            "Nguy cơ mất lòng tin của nhân dân đối với cách mạng.", 
+            "Nguy cơ mất an ninh trật tự, mất ổn định trong xã hội.", 
+            "Nguy cơ xâm phạm chủ quyền lãnh thổ, biên giới quốc gia.", 
+            "Nguy cơ mất đoàn kết toàn dân tộc, đoàn kết quốc tế."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Nguy cơ xâm phạm biên giới đất liền, biển đảo, vùng trời của Tổ quốc là một trong những thách thức, nguy cơ đối với:",
+        options: [
+            "Bất ổn xã hội.", 
+            "An ninh truyền thống.", 
+            "An toàn truyền thống.", 
+            "Bất ổn quốc gia."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Nguy cơ, thách thức đối với an ninh truyền thống là:",
+        options: [
+            "Mất ổn định xã hội.", 
+            "Mất đoàn kết nội bộ.", 
+            "Khủng hoảng lòng tin với Đảng.", 
+            "Khủng hoảng kinh tế, xã hội."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Trong phạm vi quốc gia, Đảng ta đã ra nghị quyết số 24/NQTU về chủ động ứng phó với biến đổi khí hậu, tăng cường quản lý tài nguyên và bảo vệ môi trường vào năm:",
+        options: [
+            "2016.", 
+            "2013.", 
+            "2011.", 
+            "2014."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "An ninh truyền thống và an ninh phi truyền thống đều nói về an ninh quốc gia, nhưng:",
+        options: [
+            "Nội hàm có cùng chung các yếu tố tạo thành.", 
+            "Cơ bản hoàn toàn giống nhau về nội hàm.", 
+            "Phạm vi nội hàm luôn quan hệ với nhau.", 
+            "Phạm vi nội hàm không hoàn toàn giống nhau."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "An ninh phi truyền thống xuất phát từ rất nhiều các yếu tố:",
+        options: [
+            "Do tự nhiên, do xã hội gây ra.", 
+            "Do kinh tế, do xã hội gây ra.", 
+            "Do con người, do tự nhiên gây ra.", 
+            "Do con người, do văn hóa gây ra."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "An ninh phi truyền thống xuất phát từ rất nhiều các yếu tố, trong đó cũng có yếu tố:",
+        options: [
+            "Do cả con người và tự nhiên cùng gây ra.", 
+            "Do cả chính trị và kinh tế cùng gây ra.", 
+            "Do cà kinh tế và xã hội cùng gây ra.", 
+            "Do cà quân sự và đối ngoại gây ra."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "An ninh phi truyền thống xuất phát từ các yếu tố do con người gây ra như:",
+        options: [
+            "Khủng hoảng chính trị, quân sự.", 
+            "Tội phạm, khủng bố, tham nhũng.", 
+            "Xung đột biên giới, lãnh thổ.", 
+            "Biến đổi khí hậu, lũ lụt, hạn hán."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "An ninh phi truyền thống xuất phát từ các yếu tố do con người và tự nhiên cùng gây ra như:",
+        options: [
+            "Lụt bão, hạn mặn, sóng thần.", 
+            "Thiên tai, địch họa.", 
+            "Dịch bệnh, ô nhiễm môi trường.", 
+            "Khủng hoảng tài chính."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Nội hàm của an ninh phi truyền thống rất rộng, rất đa dạng, giải quyết không phải một lần, một giai đoạn nhất định mà hết, nó có thể:",
+        options: [
+            "Ngày càng gia tăng, không có điểm dừng.", 
+            "Chậm gia tăng và sẽ có điểm dừng nhất định.", 
+            "Ngày càng gia tăng đến một giai đoạn nhất định.", 
+            "Không gia tăng và không có điểm dừng."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Hiện nay trên thế giới, về an ninh phi truyền thống bởi xuất phát từ các góc độ nghiên cứu, chế độ chính trị, vị thế và tiềm lực kinh tế của từng nước, nên:",
+        options: [
+            "Chỉ khác nhau về vấn đề cụ thể của an ninh phi truyền thống.", 
+            "Có quan niệm giống nhau về an ninh phi truyền thống.", 
+            "Giống nhau từng vấn đề cụ thể của an ninh phi truyền thống.", 
+            "Vẫn có những quan niệm khác nhau về an ninh phi truyền thống."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Những vấn đề được thể hiện trên nhiều lĩnh vực nhưng nằm ngoài vấn đề quân sự, trong bối cảnh liên kết quốc tế ngày càng phát triển đe dọa đến an ninh phi truyền thống, đó là:",
+        options: [
+            "Cạn kiệt tài nguyên, biến đổi khí hậu.", 
+            "Hợp tác quốc tế và trong từng khu vực.", 
+            "Đoàn kết dân tộc, tôn giáo từng quốc gia.", 
+            "Liên kết quốc tế và trong từng khu vực."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Thách thức và đe dọa từ an ninh phi truyền thống trên lĩnh vực kinh tế là:",
+        options: [
+            "An ninh xã hội.", 
+            "An ninh năng lượng.", 
+            "An ninh dân tộc.", 
+            "An ninh tôn giáo."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Các thế lực thù địch lợi dụng các yếu tố từ an ninh phi truyền thống để:",
+        options: [
+            "Kết hợp tiến công quân sự với kinh tế.", 
+            "Thực hiện kế hoạch can thiệp quân sự.", 
+            "Kích động gây rối, làm mất ổn định chính trị.", 
+            "Bạo loạn lật đổ và can thiệp vũ trang."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Các thế lực thù địch lợi dụng xu thế toàn cầu hóa để đưa ra những yêu cầu, khuyến nghị trong các quan hệ nhằm hạn chế hiệu quả lãnh đạo của Đảng, hiệu lực quản lý của Nhà nước là những thách thức đe dọa từ an ninh phi truyền thống đối với lĩnh vực:",
+        options: [
+            "Chính trị tinh thần.", 
+            "Văn hóa tinh thần.", 
+            "Kinh tế xã hội.", 
+            "Chính trị xã hội."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Thách thức và đe dọa từ an ninh phi truyền thống, chúng ta phải chịu tác động không nhỏ từ các luồng văn hóa, đạo đức, lối sống thực dụng, độc hại, không lành mạnh, làm lệch chuẩn:",
+        options: [
+            "Đường lối đối ngoại đa dạng hóa, đa phương hóa.", 
+            "Đường lối chủ trương chính sách của Đảng, Nhà nước.", 
+            "Chủ nghĩa Mác – Lê nin, tư tưởng Hồ Chí Minh.", 
+            "Tư tưởng, phẩm chất, đạo đức lối sống của giới trẻ."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Những tác động từ các hiểm họa của an ninh phi truyền thống đã ảnh hưởng đến công tác xây dựng lực lượng, thế trận quốc phòng, các công trình phòng thủ quốc gia, là những thách thức, đe dọa từ an ninh phi truyền thống đối với lĩnh vực:",
+        options: [
+            "Quốc phòng toàn dân.", 
+            "Quốc phòng, an ninh.", 
+            "Quân sự, an ninh.", 
+            "An ninh nhân dân."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Những thách thức và đe dọa từ an ninh phi truyền thống đối với lĩnh vực quốc phòng, an ninh đã ảnh hưởng lớn đến:",
+        options: [
+            "Vật lực phát triển quốc phòng, an ninh.", 
+            "Nhân lực xây dựng quốc phòng, an ninh.", 
+            "Nguồn lực phát triển quốc phòng, an ninh.", 
+            "Tài lực mở rộng quốc phòng, an ninh."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Nâng cao nhận thức về các mối đe dọa của an ninh phi truyền thống đối với an ninh con người, an ninh cộng đồng, an ninh quốc gia và an ninh nhân loại là nghĩa vụ và trách nhiệm của:",
+        options: [
+            "Mọi công dân.", 
+            "Học sinh, sinh viên.", 
+            "Lực lượng vũ trang.", 
+            "Mọi tổ chức, lực lượng."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Các mối đe dọa an ninh phi truyền thống không những tác động đối với Việt Nam mà còn tác động đến:",
+        options: [
+            "Toàn cầu.", 
+            "Các nước nghèo.", 
+            "Từng khu vực.", 
+            "Những nước giàu."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Một số mối đe dọa an ninh phi truyền thống, có khả năng chuyển hóa thành an ninh truyền thống như:",
+        options: [
+            "Xung đột biên giới quốc gia.", 
+            "Mâu thuẫn đối kháng giai cấp.", 
+            "Xung đột chủ quyền lãnh thổ.", 
+            "Xung đột dân tộc, sắc tộc, tôn giáo."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Để quản trị và kiểm soát các mối đe dọa an ninh phi truyền thống có hiệu quả, chúng ta phải:",
+        options: [
+            "Phát huy sức mạnh đoàn kết quốc tế với lực lượng hòa bình thế giới.", 
+            "Nâng cao sức mạnh chiến đấu của lực lượng vũ trang nhân dân.", 
+            "Phát huy sức mạnh tổng hợp của hệ thống chính trị và toàn xã hội.", 
+            "Đẩy mạnh sự nghiệp đổi mới, công nghiệp hóa, hiện đại hóa."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Phòng ngừa kiểm soát và ứng phó với các mối đe dọa an ninh phi truyền thống, chúng ta phải:",
+        options: [
+            "Mở rộng và tăng cường hợp tác quốc tế.", 
+            "Giao lưu và tăng cường hợp tác kinh tế.", 
+            "Mở rộng và tăng cường đối ngoại quốc tế.", 
+            "Liên doanh và liên kết an ninh quốc tế."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Chủ động và tích cực hội nhập quốc tế trong đó hợp tác về phòng ngừa, ứng phó với các mối đe dọa an ninh phi truyền thống thông qua cơ chế và:",
+        options: [
+            "Cách thức linh hoạt, nhiều tầng, nhiều lớp.", 
+            "Phương thức đa tầng, đa dạng và linh hoạt.", 
+            "Giải pháp linh hoạt, đơn phương và đa phương.", 
+            "Phương thức linh động, đa dạng, phong phú."
+        ],
+        correctAnswer: 1
+    },
+
+    {
+        question: "Mục tiêu của an ninh quốc gia là:",
+        options: [
+            "Củng cố lòng tin của nhân dân, phát hiện, loại trừ các loại tệ nạn xã hội từ bên ngoài.", 
+            "Xây dựng nền tảng tư tưởng vững chắc, phòng ngừa các loại tội phạm và tệ nạn xã hội.", 
+            "Phát huy tinh thần độc lập tự chủ, tự lực, tự cường giữ vững trật tự an toàn xã hội.", 
+            "Củng cố nền tảng vững chắc bên trong, phòng ngừa sự tiến công xâm phạm từ bên ngoài."
+        ],
+        correctAnswer: 3
+    },
+
+    {
+        question: "Đối tượng tác động của an ninh phi truyền thống là:",
+        options: [
+            "Thế giới, quốc gia, con người.", 
+            "Dân tộc, khu vực, quốc gia.", 
+            "Thế giới, con người, tôn giáo.", 
+            "Tôn giáo, quốc gia, dân tộc."
+        ],
+        correctAnswer: 0
+    },
+
+    {
+        question: "Đối với nước ta, việc phối hợp quốc tế để giải quyết một số vấn đề về an ninh phi truyền thống đã được Đảng, Nhà nước:",
+        options: [
+            "Hết sức lo lắng, và quan tâm thực hiện.", 
+            "Đang rất quan tâm và triển khai thực hiện.", 
+            "Hết sức quan tâm và thực hiện có hiệu quả.", 
+            "Ra sức quan tâm và quyết tâm thực hiện."
+        ],
+        correctAnswer: 2
+    },
+
+    {
+        question: "Chủ động tích cực phòng ngừa ứng phó với các mối đe dọa an ninh phi truyền thống là một trong những:",
+        options: [
+            "Nhiệm vụ phòng ngừa, ứng phó đe dọa từ an ninh phi truyền thống.", 
+            "Quan điểm phòng ngừa, ứng phó đe dọa từ an ninh phi truyền thống.", 
+            "Nội dung phòng ngừa, ứng phó đe dọa từ an ninh phi truyền thống.", 
+            "Giải pháp phòng ngừa, ứng phó đe dọa từ an ninh phi truyền thống."
+        ],
+        correctAnswer: 3
+    },
 ];
