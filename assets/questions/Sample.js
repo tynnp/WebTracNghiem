@@ -1,3 +1,10 @@
+var title = document.getElementById("title");
+var description = document.getElementById("description");
+
+title.textContent = "Tiêu đề"
+description.innerHTML += "<br>" + "Mô tả"
+
+
 const questions = [
     {
         question: "Câu hỏi số 1",
